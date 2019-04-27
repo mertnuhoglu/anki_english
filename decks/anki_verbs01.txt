@@ -1,0 +1,100 @@
+you should sleep; uyumalısın; basic
+you must go; gitmek zorundasın; basic
+you can fall; düşebilirsin; basic
+he should look; o bakmalı; basic
+I must see; görmek zorundayım; basic
+I can hear; duyabilirim; basic
+I can climb; tırmanabilirim; basic
+She can use; kullanabilir; basic
+She should walk; yürümeli; basic
+She must think; düşünmek zorunda; basic
+You should talk; konuşmalısın; basic
+You can take; alabilirsin; basic
+I must study; ders çalışmak zorundayım; basic
+I can sing; şarkı söyleyebilirim; basic
+I should say; söylemeliyim; basic
+I want to sing; şarkı söylemek istiyorum; basic
+Do you want to get it?; Onu almak ister misin?; basic
+They want to go home; Eve gitmek istiyorlar; basic
+She wants to see it; Onu görmek istiyor; basic
+She wants to become police; Polis olmak istiyor; basic
+I want to be happy; Mutlu olmak istiyorum; basic
+You shouldn't be sad; Üzgün olmamalısın; basic
+Be happy; Mutlu ol; basic
+You can be funny; Neşeli olabilirsin; basic
+Do you want to be sad?; Üzgün olmak ister misin?; basic
+I can be strong; Güçlü olabilirim; basic
+We must be strong; Güçlü olmak zorundayız; basic
+It can be dangerous; Tehlikeli olabilir; basic
+This must be blue; Bu mavi olmalı; basic
+He wants to be a hero; O bir kahraman olmak istiyor; basic
+Don't be silly; Aptal olma; basic
+It must be funny; Bu komik olmalı; basic
+to fall; düşmek; basic
+to use; kullanmak; basic
+to walk; yürümek; basic
+to do; yapmak; basic
+to get; almak; basic
+to be; olmak; basic
+to want; istemek; basic
+can; -meli -malı eki; basic
+was; -di -dı eki; basic
+wasn't; değildi; basic
+to take; almak; basic
+Do you sing?; şarkı söyler misin?; basic
+Do you love?; seviyor musun?; basic
+Do you walk?; yürür müsün?; basic
+Does it fall?; düşer mi?; basic
+Does he use?; kullanır mı?; basic
+Do I take?; alır mıyım?; basic
+He was sick; hastaydı; basic
+He wasn't healthy; sağlıklı değildi; basic
+She wasn't cute; sevimli değildi; basic
+It wasn't blue; mavi değildi; basic
+I am not sick; hasta değilim; basic
+They weren't healthy; hasta değillerdi; basic
+It can be blue; mavi olabilir; basic
+they; onlar; basic
+I do; yaparım; basic
+You do; yaparsın/yaparsınız; basic
+He/she/it does; yapar; basic
+We do; yaparız; basic
+They do; yaparlar; basic
+I was happy; mutluydum; basic
+You were happy; mutluydun/mutluydunuz; basic
+He/she/it was happy; mutluydu; basic
+We were happy; mutluyduk; basic
+They were happy; mutluydular; basic
+I wasn't yellow; sarı değildim; basic
+You weren't yellow; sarı değildin; basic
+He/she/it wasn't yellow; sarı değildi; basic
+We weren't yellow; sarı değildik; basic
+They weren't yellow; sarı değildiler; basic
+Do you like me?; beni seviyor musun?; basic
+Do you like him?; onu seviyor musun?; basic
+Do you like us?; bizi seviyor musun?; basic
+Do you like them?; onları seviyor musun?; basic
+us; bizi/bize; basic
+them; onları/onlara; basic
+him; onu/ona; basic
+her; onu/ona; basic
+I got it; onu aldım; basic
+You got it; onu aldın/aldınız; basic
+He/she/it got it; onu aldı; basic
+We got it; onu aldık; basic
+They got it; onu aldılar; basic
+I did; yaptım; basic
+You did; yaptın/yaptınız; basic
+He/she/it did; yaptı; basic
+We did; yaptık; basic
+They did; yaptılar; basic
+There is a car; Şurada bir araba var; basic
+There are no humans; Burada insan yok; basic
+There is no danger; Tehlike yok; basic
+I found a lego brick; Bir lego tuğlası buldum; basic
+There is no lego in this room; Bu odada lego yok; basic
+I will use your lego bricks; Senin lego tuğlalarını kullanacağım; basic
+Can I use your lego bricks?; Senin lego tuğlalarını kullanabilir miyim?; basic
+I have got a lot of lego bricks. <br> or <br> I have a lot of lego bricks; Benim çok sayıda lego tuğlam var; basic
+
+

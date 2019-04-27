@@ -1,0 +1,15 @@
+[sound:book_kidnap_tom_lives_in_america_near_the_town_of_harper.mp4] <br> 	Tom [...] in America [...] the town of Harper; Tom lives in America near the town of Harper <br>; book_kidnap
+[sound:book_kidnap_tom_thinks_its_winter_and_theres_a_lot_of_snow_i_can_go_to_the_bookstore.mp4] <br> 	Tom thinks it's [...] and [...] a lot of snow I can go to the bookstore ; Tom thinks it's winter and there's a lot of snow I can go to the bookstore  <br>; book_kidnap
+[sound:book_kidnap_tom_sees_some_white_paper_the_paper_falls_from_a_mans_hand.mp4] <br> 	Tom sees some white [...] the paper falls from a man's hand ; Tom sees some white paper the paper falls from a man's hand  <br>; book_kidnap
+[sound:book_kidnap_its_not_important_he_thinks.mp4] <br> 	it's not [...] he thinks ; it's not important he thinks  <br>; book_kidnap
+[sound:book_kidnap_tom_finishes_the_picture_of_the_woman.mp4] <br> 	Tom finishes the picture of the woman; Tom finishes the picture of the woman <br>; book_kidnap
+[sound:book_kidnap_only_important_or_famous_people_have_a_bodyguard.mp4] <br> 	only important or [...] people have a bodyguard ; only important or famous people have a bodyguard  <br>; book_kidnap
+[sound:book_kidnap_maybe_they_want_to_kidnap_a_child.mp4] <br> 	maybe they [...] to [...] a child ; maybe they want to kidnap a child  <br>; book_kidnap
+[sound:book_kidnap_we_must_be_there_theyre_singing_for_us.mp4] <br> 	we must be there they're [...] for us; we must be there they're singing for us <br>; book_kidnap
+[sound:book_kidnap_oh_theres_ice_on_the_road.mp4] <br> 	oh there's [...] on the [...] ; oh there's ice on the road  <br>; book_kidnap
+[sound:book_kidnap_maybe_its_bridgewater_a_little_town_about_three_kilometers_from_here.mp4] <br> 	maybe it's Bridgewater a [...] town [...] three kilometers from here ; maybe it's Bridgewater a little town about three kilometers from here  <br>; book_kidnap
+[sound:book_kidnap_he_sees_ritas_coat_then_he_sees_something_in_her_coat_pocket.mp4] <br> 	he sees Rita's coat then he sees [...] in her [...] pocket ; he sees Rita's coat then he sees something in her coat pocket  <br>; book_kidnap
+[sound:book_kidnap_dont_ask_stupid_questions_mr_smart_guy_drive.mp4] <br> 	don't [...] stupid questions mr. smart guy drive; don't ask stupid questions mr. smart guy drive <br>; book_kidnap
+[sound:book_kidnap_when_i_say_take_a_left_take_a_left.mp4] <br> 	when I say take a [...] take a left ; when I say take a left take a left  <br>; book_kidnap
+[sound:book_kidnap_i_cant_get_out_max_shouts.mp4] <br> 	I can't [...] max shouts; I can't get out max shouts <br>; book_kidnap
+[sound:book_kidnap_freeze_shouts_a_police_officer.mp4] <br> 	[...] shouts a police officer ; freeze shouts a police officer  <br>; book_kidnap

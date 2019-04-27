@@ -1,0 +1,53 @@
+[sound:i_make_my_option.mp4] <br> Repeat <br> I make my own {{c1::options}}; repeat
+[sound:we_are_really_awesome.mp4] <br> Repeat <br> - Kovalsky! {{c1::Analysis}}? <br> - We are really {{c2::awesome}} at this; repeat
+[sound:huh_my_bad.mp4] <br> Repeat <br> - High one <br> - Ooh! {{c1::My bad}}!; Normalde "High one" yerine "High five" denir. Bu beş parmak yukarı gibi bir anlama geliyor. Bizdeki "çak" deyimine karşılık. <br> "My bad" ise "benim hatam" gibi bir anlama  gelen bir deyim.
+[sound:0050_a_moment_of_extraordinary.mp4] <br> - Look! It's the miracle of {{c1::birth}} <br> - A {{c2::moment}} of extraordinary beauty; miracle: mucize <br> extraordinary: sıradışı <br> beauty: güzellik <br> moment: an
+[sound:0051_that_is_disgusting.mp4] <br> - Oooh! Prrrt! That is {{c1::disgusting}}! I think I have amniotic sag in my mouth.; disgusting: iğrenç <br> mouth: ağız. <br> Türkçesi: Bu iğrenç. Sanırım ağzımda yumurta sıvısı var.
+[sound:0052_hello_are_you_my_family.mp4] <br> - Hello! Are you my {{c1::family}}?; Türkçesi: Siz benim ailem misiniz?
+[sound:0053_you_dont_have_a_family.mp4] <br> - You don't have a {{c1::family}}. And we are all going {{c2::to die}}. <br> - What?; die: ölmek <br> Türkçe: Senin bir ailen yok. Ve hepimiz öleceğiz.
+[sound:0054_no_one_is_gonna_die.mp4] <br> - No one's {{c1::gonna}} die! <br> - No, you've got kid, you've got {{c2::us}}.; is gonna: is going to <br> Tr: - Hayır, kimse ölmeyecek <br> - Hayır çocuk. Sen bize sahipsin.
+[sound:0055_weve_got_each_other.mp4] <br> - We've got each {{c1::other}} <br> - That {{c2::ain't}} family I don't know what is; Tr: - Biz birbirimize sahibiz <br> - Bu bir aile değilse, aile nedir?
+[sound:0056_what_is_our_projection.mp4] <br> - {{c1::What}}'s our trajectory <br> - 95% percent certain we're still doomed <br> - And the other 5%? <br> - {{c2::Adventuring}} glory like no penguins have ever seen before; Tr: - Yörüngemiz nedir? <br> - %95 kesinlikle başımız hala belada <br> - Kalan %5 nedir? <br> - Daha önce hiçbir penguenin görmediği maceralar yaşamak
+[sound:0057_i_take_that_action.mp4] <br> - I'll take that {{c1::action}}; tr: - Bu eylemi alacağım.
+[sound:0058_when_the_world_needs_saving.mp4] <br> - When the world needs {{c2::saving}} <br> - It will take the most elite {{c1::team}} on earth.; tr: - Dünyanın kurtarılmaya ihtiyacı olduğunda <br> - Yeryüzündeki en seçkin (elit) ekip bu işi alır
+[sound:0059_skipper_kovalsky.mp4] <br> - Skipper, kovalsky, rico, and private <br> - We're the {{c1::elitest}} of the elites; - Skipper, kovalsky, rico ve er <br> - Biz elitlerin en elitiyiz
+[sound:0060_from_the_creators_of_madagascar.mp4] <br> - From the {{c1::creators}} of the madagascar; Madagascar'ın yapımcılarından
+[sound:0061_ok_boys_this_is_it.mp4] <br> - Ok {{c1::boys}}! This is it. <br> - The mission we are preparing for our entire {{c2::life}}; tr: - Ok gençler! Bu o an <br> - Hayatımız boyunca hazırlandığımız görev anı
+[sound:0062_remain_calms_pinguins.mp4] <br> - Remain {{c1::calm}} penguins; tr: - Sakin olun penguenler
+[sound:0063_you_are_now_under_the_protection.mp4] <br> - You are now under the {{c1::protection}} of North Wind; - Şu an siz Kuzey Rüzgarının koruması altındasınız.
+[sound:0065_we_are_not_going_anywhere_with_you.mp4] <br> - We're not going {{c1::anywhere}} with you; tr: - Biz hiçbir yere sizinle gitmiyoruz
+[sound:0066_we_dont_even_know_who_the_heck_you_are.mp4] <br> - We don't even {{c1::know}} who the heck you are; tr: - Neyin nesi olduğunuzu bilmiyoruz daha.
+[sound:0068_skipper_we_are_5_miles.mp4] <br> - Skipper! We've got to be five miles up. That pretty much {{c1::limits}} our options.; - Skipper! 5 mil yerden yukarıdayız. Bu seçeneklerimizi büyük ölçüde sınırlandırıyor.
+[sound:0069_brilliant_move_skipper.mp4] <br> - {{c1::Brilliant}} move Skipper! But now we seem to be outside the plane; tr: - Harika hareket Skipper! Artık uçağın dışında gibiyiz.
+[sound:0070_why_do_we_not_catch_that_plane.mp4] <br> - I've got to be caught up in the moment. Well I'd say it's 20 20. <br> - Why don't we catch that {{c1::plane}}?; tr: - Ben anın tadını çıkarmam gerekiyordu. <br> - Neden şu uçağı yakalamıyoruz
+[sound:0072_now_are_talking.mp4] <br> - Now, we're {{c1::talking}}. <br> - Let's get to {{c2::work}}; tr: - Şimdi konuşuyoruz (konuşmaya başladık) <br> - İşe koyulalım 
+[sound:0073_400_meters_300_meters.mp4] <br> - 400 meters... 300 meters <br> - {{c1::Speak}} American Kovalsky. <br> - Sorry Sir; tr: - 400 metre... 300 metre <br> - Amerikanca konuş Kovalsky <br> - Özür dilerim efendim.
+[sound:madagascar02_001_skipper_look.mp4] <br> - Skipper {{c1::look}}; tr: - Skipper bak
+[sound:madagascar02_002_i_find_it_pretty.mp4] <br> - I find it {{c1::pretty}} and {{c2::somewhat}} hypnotic; tr: - Ben onu güzel bir ve miktar da hipnotize edici buluyorum
+[sound:madagascar02_003_that_too_sir.mp4] <br> - That too {{c1::sir}} <br> - {{c2::Right}}; tr: - O da efendim. - Evet
+[sound:madagascar02_004_rico_manual.mp4] <br> - Rico, {{c1::manual}}! {{c2::Problemo}} {{c3::solved}}.; tr: - Rico, kılavuz. Problemo çözüldü.
+[sound:madagascar02_005_we_may_be_out_of_fuel.mp4] <br> - Sir, we {{c1::may be}} {{c2::out of fuel}} <br> - What {{c3::makes}} you {{c4::think}} that?; - Efendim, yakıtımız bitmiş olabilir. <br> - Seni böyle düşündüren şey ne?
+[sound:madagascar02_006_we_lost_engine_1.mp4] <br> - We {{c1::lost}} engine {{c2::one}}. <br> - And {{c3::engine}} two is no longer on {{c4::fire}}; - Birinci motoru kaybettik. <br> - Ve ikinci motor artık yanmıyor.
+[sound:madagascar02_007_buckle_up_boys.mp4] <br> - {{c1::Buckle up}} {{c2::boys}}! <br> - Don't {{c3::look}} out. This {{c4::might}} get hairy; tr: Emniyet kemerlerini bağlayın çocuklar. <br> - Dışarı bakma. Bu korkutucu olabilir.
+[sound:madagascar02_008_attention_this_is_your_captain.mp4] <br> - {{c1::Attention}}. {{c2::This is}} your {{c3::captain}} {{c4::speaking}}; tr: - Dikkat! Kaptanınız konuşuyor
+[sound:madagascar02_009_i_got_good_news_and_bad_news.mp4] <br> - I've {{c1::got}} {{c2::good news}} and bad news.; tr: - Bir iyi bir kötü haberim var.
+[sound:madagascar02_010_good_news_is.mp4] <br> - Good news is {{c1::we'll be}} {{c2::landing}} immediately.; tr: İyi haber şu: Hemen iniş yapıyoruz.
+[sound:madagascar02_011_bad_news_is.mp4] <br> - {{c1::Bad news}} is we're crashlanding; tr: Kötü haber: zorunlu iniş yapıyoruz
+[sound:madagascar02_012_we_know.mp4] <br> - We {{c1::know}} that you had no {{c2::choice}} whatsoever; tr: - Bir seçeneğinizin olmadığını biliyorduk.
+[sound:madagascar02_013_but_thanks_again.mp4] <br> - But {{c1::thanks}} {{c2::again}} for {{c3::choosing}} Air Penguin.; tr: - Fakat teşekkürler yine de Penguen Havayollarını seçtiğiniz için.
+[sound:madagascar02_014_raise_your_arms_moris.mp4] <br> - {{c1::Raise}} your {{c2::arms}} Moris. <br> - It's {{c3::more fun}} when you raise your arms {{c4::like}} this.; tr: Kollarını havaya kaldır Moris. Böyle kollarını kaldırınca, daha zevkli oluyor.
+[sound:madagascar02_015_i_can_fly.mp4] <br> - I can {{c1::fly}}; tr: - Uçabiliyorum
+[sound:madagascar02_016_this_could_be_it_marty.mp4] <br> - {{c1::This}} could be it Marty; tr: - Sonumuz bu Marty.
+[sound:madagascar02_017_i_just_want_you_to_know.mp4] <br> - I just want you to {{c1::know}} you're truly a one-in-a-million {{c2::friend}}. <br> - Thanks {{c3::buddy}}; tr: - Sadece bilmeni istiyorum ki, sen gerçekten milyonda bir bulunacak bir arkadaşsın.<br> - Sağol dostum
+[sound:madagascar02_018_you_are_the_best_ever.mp4] <br> - You are the {{c1::best}} ever; tr: - Sen olabileceklerin en iyisisin
+[sound:madagascar02_019_i_know_you_wont_mind.mp4] <br> - I know you won't mind when I {{c1::tell}} you <br> - {{c2::Come on}} {{c3::tell}} me {{c4::anything}}. Tell me {{c5::what}}?; - Sana bir şey söyleyeceğim kızmazsan. <br> - Haydi, söyle ne istersen. Ne söyleyeceksin?
+[sound:madagascar02_020_i_broke_your_ipod.mp4] <br> - I {{c1::broke}} your ipod. <br> - {{c2::What}}? <br> - The button it was so small. It made me mad. I'm {{c3::sorry}}; tr: - ipod'unu ben kırdım <br> - Ne? <br> - Düğmesi çok küçüktü. Beni sinirlendiriyordu. Üzgünüm
+[sound:madagascar02_021_it_was_an_accident.mp4] <br> - After I kill you <br> - It was an {{c1::accident}}; tr: - Seni öldüreceğim <br> - O bir kazaydı
+[sound:madagascar02_022_i_love_you_gloria.mp4] <br> - I {{c1::love}} you Gloria. I {{c2::always}} have.; tr: - Seni seviyorum Gloria. Her zaman sevdim.
+[sound:madagascar02_023_like_you_love_the_beach.mp4] <br> - Like you {{c1::love}} the {{c2::beach}} or good book or the beach.; tr: - Tıpkı plajı sever gibi veya iyi bir kitabı veya plajı
+[sound:madagascar02_024_my_goodness_dahlia.mp4] <br> - My goodness Dahlia, you are {{c1::shaking}} {{c2::like}} a leaf.; tr: - Dahlia, sen titriyorsun bir yaprak gibi
+[sound:madagascar02_025_rico_you_had_your_fun.mp4] <br> - Rico you had your {{c1::fun}}.; tr: - Rico yeterince eğlendin mi?
+[sound:madagascar02_026_gear_down.mp4] <br> - Gear down. Gently {{c1::now}} you just wanna kiss the ground. Just a little thick smooch like you kiss your {{c2::sister}}; tr: Tekerleri aç. Şimdi nazikçe yeri öp. Kızkardeşine bir buse kondurur gibi nazikçe.
+[sound:madagascar02_027_i_said_kiss_it.mp4] <br> - I said {{c1::kiss}} it; tr: - Öpermiş gibi dedim
+[sound:madagascar02_028_break.mp4] <br> - Now just a little {{c1::break}}. Just a touch. A little bit.; tr: - Şimdi biraz fren. Sadece birazcık
+[sound:madagascar02_029_i_believe_that_is_checkmate.mp4] <br> - I {{c1::believe}} that is checkmate; tr: - Sanırım bu şah mattı.

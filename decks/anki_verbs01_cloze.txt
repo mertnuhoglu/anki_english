@@ -1,0 +1,1 @@
+{{c1::özne}} + {{c2::yüklem}} + {{c3::nesne}} / tümleç; cloze

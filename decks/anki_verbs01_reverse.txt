@@ -1,0 +1,72 @@
+I <br> You <br> He/She/It; Ben <br> Sen <br> O; reverse
+We <br> You <br> They; Biz <br> Siz <br> Onlar; reverse
+Me <br> You <br> Him/Her/It; Beni <br> Seni <br> Onu; reverse
+Us <br> You <br> Them; Bizi <br> Sizi <br> Onları; reverse
+to do; yapmak; reverse
+to be; olmak; reverse
+to get / to take; almak; reverse
+was; -di eki; reverse
+were; -diler eki; reverse
+Do I do?; Yapar mıyım?; reverse
+Do you do?; Yapar mısın/mısınız?; reverse
+Does he/she do?; Yapar mı?; reverse
+Do we do?; Yapar mıyız?; reverse
+Do they do?; Yaparlar mı?; reverse
+Do I drink?; İçer miyim?; reverse
+Do you drink?; İçer misin/misiniz?; reverse
+Does he/she drink?; İçer mi?; reverse
+Do we drink?; İçer miyiz?; reverse
+Do they drink?; İçerler mi?; reverse
+I do <br> You do <br> He does <br>; yaparım <br> yaparsın <br> yapar; reverse
+We do <br> You do <br> They do <br>; yaparız <br> yaparsınız <br> yaparlar; reverse
+I get <br> You get <br> He gets <br>; alırım <br> alırsın <br> alır; reverse
+We get <br> You get <br> They get <br>; alırız <br> alırsınız <br> alırlar; reverse
+I did <br> You did <br> He did <br>; yaptım <br> yaptın <br> yaptı; reverse
+We did <br> You did <br> They did <br>; yaptık <br> yaptınız <br> yaptılar; reverse
+I got <br> You got <br> He got <br>; aldım <br> aldın <br> aldı; reverse
+We got <br> You got <br> They got <br>; aldık <br> aldınız <br> aldılar; reverse
+I am small <br> You are small <br> He is small; ben küçüğüm <br> sen küçüksün <br> o küçüktür; reverse
+I am tall <br> You are tall <br> He is tall; ben uzunum <br> sen uzunsun <br> o uzundur; reverse
+I was tall <br> You were tall <br> He was tall; ben uzundum <br> sen uzundun <br> o uzundu; reverse
+We were short <br> You were short <br> They were short; biz kısaydık <br> siz kısaydınız <br> onlar kısaydı; reverse
+to be <br> to do <br> to get <br>; olmak <br> yapmak <br> almak <br>; reverse
+Do you drink water?; Su içer misin?; reverse
+Do you speak english?; İngilizce konuşuyor musun?; reverse
+Does he sleep?; Uyuyor mu?; reverse
+Does she jump?; Zıplıyor mu?; reverse
+You can jump; Zıplayabilirsin; reverse
+He can sleep; Uyuyabilir; reverse
+We can speak english; Biz İngilizce konuşabiliriz; reverse
+I can't speak english; Ben İngilizce konuşamam; reverse
+They can't jump; Onlar zıplayamaz; reverse
+Can you swim?; Yüzebilir misin?; reverse
+I want ice-cream; Dondurma istiyorum; reverse
+He wants to swim; Yüzmek istiyor; reverse
+You want pencil; Kalem istiyorsun; reverse
+We want to speak english; İngilizce konuşmak istiyoruz; reverse
+I want to do homework; Ödev yapmak istiyorum; reverse
+They want to do homework; Ödev yapmak istiyorlar; reverse
+We don't want to do homework; Ödev yapmak istemiyoruz; reverse
+You don't want to sleep; Uyumak istemiyorsun; reverse
+He can get/take the fish; O, balığı alabilir; reverse
+You can take/get it; Onu alabilirsin; reverse
+Do you want to play?; Oyun oynamak ister misin?; reverse
+Do you like legos?; Legoları sever misin?; reverse
+I can play with legos; Legolarla oynayabilirim; reverse
+He can make legos; Lego yapabilir; reverse
+Can you play with legos?; Legolarla oynayabilir misin?; reverse
+Can you make lego?; Lego yapabilir misin?; reverse
+Can you make lego plane?; Lego uçak yapabilir misin?; reverse
+We should make lego car; Biz lego araba yapmalıyız; reverse
+We cannot make lego car; Biz lego araba yapamayız; reverse
+Can we make lego car?; Lego araba yapabilir miyiz?; reverse
+Can lego characters sing?; Lego karakterler şarkı söyleyebilir mi?; reverse
+Do we play legos?; Lego oynar mıyız?; reverse
+We want to play legos; Lego oynamak istiyoruz; reverse
+There are over 7 billion people; Burada 7 milyar üzerinde insan var; reverse
+There is a house; Burada bir ev var; reverse
+there; burada/orada; reverse
+We will be 9 billion people; 9 milyar kişi olacağız; reverse
+wasted food; çöpe atılmış yemek; reverse
+what do you do?; ne yapıyorsun?; reverse
+without water; su olmadan; reverse

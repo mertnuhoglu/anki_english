@@ -1,0 +1,82 @@
+<img src="river.jpg">; river;water
+<img src="lake.jpg">; lake;water
+<img src="ocean.jpg"> o..; ocean;water
+<img src="air.jpg"> a..; air;water
+<img src="frozen.jpg"> f..; frozen;water
+<img src="ice.jpg"> i..; ice;water
+<img src="most_of_eartch.jpg"> most of earth is covered with water; dünyanın büyük kısmı suyla kaplıdır;water
+<img src="earth.jpg"> e... or w...; earth or world;water
+<img src="animals_need_water.jpg"> plant and animals need water; bitkiler ve hayvanlar suya ihtiyaç duyar;water
+<img src="ways_to_use_water.jpg"> ways to use water; su kullanma yolları (şekilleri);water
+<img src="states_of_water.jpg"> katı; solid;water
+<img src="states_of_water.jpg"> sıvı; liquid;water
+<img src="states_of_water.jpg"> gaz; gas;water
+<img src="states_of_water.jpg"> buhar; steam;water
+<img src="water_freezes.jpg"> water freezes; su donar;water
+<img src="solid_water_is_ice.jpg"> solid water is called ice; katı suya buz denir;water
+<img src="some_water_is_invisible.jpg"> some water is invisible; suyun bir kısmı görünmez;water
+<img src="melting_ice.jpg"> ice melts; buz erir;water
+<img src="one_day_this_will_be_yours.jpg">; — bir gün burası senin olacak oğul <br> — harika, teşekkürler baba;water
+<img src="our_iceberg_is_melting.jpg">; — oh hayır! buzdağımız eriyor <br> — evet! çünkü yine donuna işedin!!!;water
+<img src="i_wish_it_was_colder.jpg">; yaz: daha soğuk olsun isterdim <br> kış: daha sıcak olsun isterdim <br> bahar: mutlu olmak isterdim;water
+<img src="honey_you_get_out.jpg">; — tatlım, buradan gitsen iyi olur;water
+<img src="freeze.jpg">; — kıpırdama (don);water
+<img src="hey_look_im_deer.jpg">; — hey bak. ben bir geyiğim;water
+<img src="dude_halloween.jpg">; — dostum! cadılar bayramı iki ay önceydi;water
+<img src="hey_im_a_unicorn.jpg">; — hey! ben bir unicornum! çaktın mı?;water
+<img src="water_freezes2.jpg"> When liquid water gets cold, it freezes.; sıvı su soğuduğunda, donar;water
+<img src="happy_cloud.jpg"> c...; cloud;water
+<img src="water_drop.jpg"> d...; water drop;water
+<img src="rain.jpg"> r...; rain;water
+<img src="rain_free_carwash.jpg">; — yağmur mu? <br> — bedava araba yıkama;water
+<img src="why_do_people.jpg">; — neden insanlar şarkı söyleyip dans eder... <br> — benim işememde?;water
+<img src="im_sorry_mom_cloud.jpg">; — üzgünüm anne... daha fazla tutamadım!;water
+<img src="lego_brave.jpg">; cesur;lego
+<img src="lego_confident.jpg">; kendinden emin;lego
+<img src="lego_determined.jpg">; azimli;lego
+<img src="lego_playful.jpg">; oyuncu;lego
+<img src="lego_powerful.jpg">; güçlü, kudretli;lego
+<img src="lego_smart.jpg">; akıllı;lego
+<img src="lego_strong.jpg">; güçlü, kuvvetli;lego
+[sound:finding_nemo_shockedfrankeelelephant.mp4] <br> Blah, blah blah. Me, me, blah.; Bla bla bla. Mi mi bla.; video
+[sound:finding_nemo_misguidedgoldenlark.mp4] <br> He's trying to speak to me, <br> I know it!; O benimle konuşmaya çalışıyor <br> Biliyorum.; video
+[sound:finding_nemo_spectacularinsistentirishsetter.mp4] <br> Bubbles bubbles bubbles bubbles; Köpükler köpükler köpükler köpükler; video
+[sound:finding_nemo_untriedwaterloggedgermanspitz.mp4] <br> We go out... And back in; Dışarı çıkarız... Ve içeri geri döneriz; video
+[sound:gif_the_incredibles,_incredibles,_lookedvia_giphychannel_60__yawningthirstyeastsiberianlaika.mp4] <br> He looked at me; O bana baktı; video
+[sound:how_bad_is_it_frayedadorablegallowaycow.mp4] <br> On a scale of 1 to 10, how bad is it? <br> Oh, I'd say it's about a.. 7 <br>; 1'den 10'a kadar bir ölçekte, ne kadar kötü? <br> Hmm, Bence bir... yedi; video
+[sound:jokes_on_you_batman___the_lego_batman_movie_mindlesscluelessfireant.mp4] <br> Well, obviously, I'm Batman's greatest enemy no matter how much he may deny it; Pekiala, belli ki, ben Batman'in en büyük düşmanıyım. O ne kadar inkar ederse etsin; video
+[sound:lego_batman_animated_gif___speakgif_mealydisgustingbarebirdbat.mp4] <br> I only work in black.; Ben sadece siyah içinde çalışırım; video
+[sound:lego_batman_angrygorgeouscub.mp4] <br> Ughhh fine; Aaaah peki; video
+[sound:lego_movie_jubilantlimitedarcticwolf.mp4] <br> I hate this place; Bu yerden nefret ediyorum; video
+[sound:lego_movie_neglecteddenseisabellinewheatear.mp4] <br> ;; video
+[sound:maybe_severerelievedflyingfish.mp4] <br> Are you ready to risk your life for ninjago <br> Yes, I am on it <br> Yes Yup Maybe; Hayatınızı ninjago için risk etmeye hazır mısınız? <br> Evet, ben varım <br> Evet Yup Belki; video
+[sound:minions..._flatshabbyasianpiedstarling.mp4] <br> When someone bothers me while I'm cranky; Ben huysuzken, birisi beni rahatsız ettiğinde...; video
+[sound:minions_optimalvigorousadder.mp4] <br> Who are you?; Sen kimsin?; video
+[sound:the_incredibles_seriousunevenbluet.mp4] <br> I love our family; Ailemizi seviyorum; video
+[sound:the_lego_batman_movie_frighteneddisastrousgermanspitz.mp4] <br> (about Bruce Wayne) <br> Who's that? <br> Sounds like a cool guy; (Bruce Wayne hakkında) <br> Kim o? <br> Cool birine benziyor; video
+[sound:the_lego_batman_movie_mellowbaggyankole.mp4] <br> The line is: I'm Batman; Satır şöyle: Ben Batman'im; video
+[sound:unbelievable_metallictediousantelopegroundsquirrel.mp4] <br> Unbelievable; İnanılmaz; video
+[sound:_monsters_inc_disneyedit_pixaredit_monstersincedit_projdisney_pdpinkteam_faithfulexcitablebison.mp4] <br> Ta da; İşte...; video
+[sound:bathroom_pass_accomplishedlavisharawana.mp4] <br> Can I have a bathroom pass?; Biz banyo geçişi istiyoruz; video
+[sound:batman_lego_farawayunsteadyboilweevil.mp4] <br> Well, obviously <br> I'm Batman's greatest enemy <br> no matter how much he may deny it; Peki belli ki, <br> Ben Batman'in en büyük düşmanıyım <br> o ne kadar inkar ederse etsin; video
+[sound:batman_lego_frayedgenerousgoshawk.mp4] <br> Remember, kids, if you want to be like <br> Batman, take care of your abs. Batman out!; Unutmayın çocuklar, eğer siz de Batman gibi olmak istiyorsanız, <br> karın kaslarınıza dikkat edin. Batman çıkışı; video
+[sound:batman_lego_giantterrificadder.mp4] <br> What am I gonna do?; Ne yapacağım ben?; video
+[sound:batman_lego_redradiantjabiru.mp4] <br> Superman is my greatest enemy <br> Superman is not a bad guy!; Süpermen benim en büyük düşmanım <br> Süpermen kötü bir adam değil; video
+[sound:batman_look_boy_lego_alivedarkdwarfrabbit.mp4] <br> Everything is awesome; Her şey muhteşem; video
+[sound:batman_look_boy_lego_complexplayfuliberianbarbel.mp4] <br> Batman, there are no more vigilantes allowed in Gotham City; Batman, Gotham Şehrinde artık kanun infazcılarına izin yok.; video
+[sound:finding_nemo_mine_requiredvigilantbellfrog.mp4] <br> The tank is clean!!!; Su haznesi temiz; video
+[sound:gif___the_incredibles__incredibles_imaginaryskeletalheterodontosaurus.mp4] <br> Everyone's special, Dash.; Herkes özeldir, Dash; video
+[sound:gif__other_lego_batman_the_lego_movie_readygrossafricanmolesnake.mp4] <br> I'm here to see... your butt.; Ben şeyi görmek için buradayım... senin poponu; video
+[sound:incredibles_mildtestyavians.mp4] <br> Ha! Ha! Never heard that before.; Ha! Ha! Bunu daha önce hiç duymamıştım; video
+[sound:lego_batman_boy_look_difficultconsciousanura.mp4] <br> A month ago, I had no dads. <br> Then I had one dad. <br> Now I have two dads!; Bir ay önce, hiç babam yoktu. <br> Sonra bir babam oldu <br> Şimdi iki babam var; video
+[sound:lego_batman_boy_look_likablewaterybantamrooster.mp4] <br> You're right; Haklısın; video
+[sound:lego_batman_boy_look_likelyinsecurearmyworm.mp4] <br> Hi Buddy!; Selam dostum; video
+[sound:lego_batman_boy_look_mediuminbornbinturong.mp4] <br> I feel something inside; Ben içimde bir şey hissediyorum; video
+[sound:lego_batman_boy_look_relievedvigoroushermitcrab.mp4] <br> We can build a submarine; Bir denizaltı inşa edebiliriz (yapabiliriz); video
+[sound:lego_batman_boy_look_uncommoncolorfulkestrel.mp4] <br> I don't talk about feelings; Ben duygular hakkında konuşmam; video
+[sound:monsters_inc_book_amusingpersonallcont.mp4] <br> It's empty. See? No monster in here.; Bu boş. Gördün mü? <br> Burada canavar yok.; video
+[sound:monsters_inc_book_prestigiousblandduck.mp4] <br> Well, now there is. But I'm not gonna scare you.; Peki, şimdi buradayız. Ama seni korkutmayacağım.; video
+[sound:squishy_finding_nemo_dory_hoarseunkemptindusriverdolphin.mp4] <br> I shall call him squishy and he shall be mine; Onu "yumuşak" olarak adlandıracağım <br> Ve o benim olacak; video
+[sound:their_quirks_flashybrokeneft.mp4] <br> My mom is weird and collects seashells; Annem gariptir ve deniz kabukları toplar.; video
+[sound:toy_story_identicalfrighteningeeve.mp4] <br> I'm surrounded by alien creatures of unknown intent. <br> Who goes there? <br> Friend? Or Foe?; Bilinmeyen niyetleri olan uzaylı yaratıklar tarafından kuşatıldım. <br> Kim var orda? <br> Dost musun? Düşman mı?; video
+[sound:amusedviciousgermanwirehairedpointer.mp4] <br> No... We'll take the check please; Hayır... Hesabı alalım lütfen.; video

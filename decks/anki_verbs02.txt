@@ -1,0 +1,14 @@
+I'm going to go = I'{{c1::m gonna}} go; tr: ben gideceğim
+I'{{c2::m going}} to die = I'{{c1::m gonna}} die; tr: ben öleceğim
+I'm going to run = I'{{c1::m gonna}} {{c2::run}}; tr: ben koşacağım
+I'{{c2::m going}} to get it = I'{{c1::m gonna}} {{c3::get it}}; tr: ben onu alacağım
+I'm going to pay it = I'{{c1::m gonna}} pay it; tr: ben onu ödeyeceğim
+Gelecek zaman kipleri = {{c1::Future tenses}}; Fiillerin gelecek zaman çekimleri
+Future tenses: <br> 1. {{c1::will}} ... <br> 2. {{c2::going to}} ... <br> 3. {{c3::gonna}} ...; Üçü de hemen hemen aynı anlama geliyor. Türkçedeki -cek -cak ekinin karşılığı.
+Geçmiş zaman kipleri = {{c1::Past tenses}}; Fiillerin geçmiş zaman çekimleri
+Past tenses of to do: <br> 1. I {{c1::did}} <br> 2. I {{c2::was doing}}; İlki gittim, ikincisi gidiyordum fiilinin karşılığı.
+Do you {{c1::have::var mı anlamında}} any lego bricks?; tr: Sende lego parçaları var mı?
+Are {{c1::there}} any lego bricks?; tr: Burada lego parçaları var mı?
+You {{c1::don't::yok anlamında}} have a family; tr: Senin bir ailen yok.
+I {{c1::have got}} lego bricks = I {{c2::have}} lego bricks; tr: Lego tuğlalarım var.
+I {{c1::have got}} a laptop = I {{c2::have}} a laptop; tr: Benim laptopum var.

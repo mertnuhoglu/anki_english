@@ -1,0 +1,3 @@
+[sound:i_make_my_option.mp4] <br> Repeat <br> I make my own {{c1::options}}; repeat
+[sound:we_are_really_awesome.mp4] <br> Repeat <br> - Kovalsky! {{c1::Analysis}}? <br> - We are really {{c2::awesome}} at this; repeat
+[sound:huh_my_bad.mp4] <br> Repeat <br> - Hi one <br> - Ooh! {{c1::My bad}}!; repeat

@@ -1,0 +1,62 @@
+[sound:lego2_0001_good_morning_sewer_babies.mp4] <br> - Good {{c1::morning}} sewer {{c2::babies}}; tr: - Günaydın kanalizasyon bebekleri; lego2
+[sound:lego2_0002_this_is_awesome.mp4] <br> - this is {{c1::awesome}}; tr: Bu muhteşem; lego2
+[sound:lego2_0003_look_at_the_desk.mp4] <br> - {{c1::Look}} at the {{c2::desk}}; tr: Masaya bakın; lego2
+[sound:lego2_0004_ok_team_welcome_to_fox_nfl_sunday.mp4] <br> - Ok, {{c1::team}}. {{c2::Welcome}} to Fox NFL Sunday.; tr: Ok ekip. Fox Pazar NFL programına hoşgeldiniz; lego2
+[sound:lego2_0005_lets_talk_football.mp4] <br> - Let's {{c1::talk}} {{c2::football}}; tr: Futbol konuşalım; lego2
+[sound:lego2_0006_mvb_most_valuable_batman.mp4] <br> - MVB? <br> - {{c1::Most}}... {{c2::Valuable}}... Batman; tr: - MVB? - En değerli Batman; lego2
+[sound:lego2_0007_thats_my_thought.mp4] <br> - That was my {{c1::thought}}. You cannot just {{c2::make up}} your own {{c3::word}}.; tr: - Bu benim düşüncemdi. Kendi kelimelerini öylece üretemezsin.; lego2
+[sound:lego2_0008_why_i_think_you_guys.mp4] <br> - {{c1::Why}}? <br> - {{c2::I think}} you {{c3::guys}} need to work this out on the field; tr: - Neden? <br> Gençler bunu sahada çözmeniz gerekiyor sanırım.; lego2
+[sound:lego2_0009_go_now.mp4] <br> - {{c1::Go}} now.; tr: Gidin şimdi; lego2
+[sound:lego2_0010_ok_lets_address_elephant_in_a_home.mp4] <br> - Ok! Let's {{c1::address}} the elephant in a home.; tr: - Ok! Evdeki fili ele alalım şimdi.; lego2
+[sound:lego2_0011_just_out_of_curiosity.mp4] <br> - Out of {{c1::curiosity}}; tr: - Meraktan; lego2
+[sound:lego2_0012_why_wouldnt_you_wanna_marry_me.mp4] <br> - {{c1::Why}} wouldn't you {{c2::wanna}} {{c3::marry}} me?; tr: - Neden benimle evlenmek istemezsin?; lego2
+[sound:lego2_0013_just_for_curiosity_sake.mp4] <br> - {{c1::Just}}. Psst again. Purely for {{c2::curiosity}} sake.; tr: - Yeniden. Sadece meraktan.; lego2
+[sound:lego2_0014_i_dont_go_for_guys_like_you.mp4] <br> - Ow! I don't go for {{c1::guys}} {{c2::like}} you; tr: - Ben senin gibi adamların arkasından gitmem.; lego2
+[sound:lego2_0015_what_do_you_mean_guys_like_me.mp4] <br> - {{c1::What}} do you {{c2::mean}} guys like me?; tr: - Benim gibi adamlar derken ne demek istiyorsun?; lego2
+[sound:lego2_0016_i_love_holidays.mp4] <br> - {{c1::Man}}, I {{c2::love}} {{c3::holidays}} in Apocalipseburg; tr: - Adamım. Apocalipseburg'deki (Kıyamet şehri) tatilleri seviyorum.; lego2
+[sound:lego2_0017_the_weather_is_dusty.mp4] <br> - The {{c1::weather}} is {{c3::dusty}}. And the {{c2::coffee}} tastes extra pumpkin spicy; tr: Hava kumlu. Ve kahve de ekstra bal kabağı baharatı tadında.; lego2
+[sound:lego2_0018_this_holiday_season_has_definitely.mp4] <br> - This {{c1::holiday}} {{c2::season}} has definitely; tr: - Bu tatil mevsimi kesinlikle...; lego2
+[sound:lego2_0019_descended_into_chaos.mp4] <br> - descended into {{c1::chaos}}; tr: - Kaosa düştü; lego2
+[sound:lego2_0020_now_that_if_duplo_savages_destroyed_our_land.mp4] <br> - Now that if {{c2::duplo}} savages {{c1::destroyed}} our {{c3::land}}; tr: - Şimdi eğer bu duplo vahşileri topraklarımızı mahvederse; lego2
+[sound:lego2_0021_happy_holidays_sorry_did_i_interrupt.mp4] <br> - Hey Lucy! {{c1::Happy}} Holidays! {{c2::Sorry}}, did I {{c3::interrupt}} your broading sess...; tr: - Hey Lucy. Mutlu tatiller. Özür dilerim eğer yayınını kestiysem; lego2
+[sound:lego2_0022_but_you_know_it_will_cheer_everyone_up.mp4] <br> - But {{c1::you know}} it will {{c2::cheer}} {{c3::everyone}} up.; tr: - Ama bilirsiniz, bu hepinizi neşelendirecek.; lego2
+[sound:lego2_0023_please_dont_say_holiday_party.mp4] <br> - {{c1::Please}} don't {{c2::say}} holiday party. - A holiday party!; tr: - Lütfen tatil partisi demeyin. - Tatil partisi; lego2
+[sound:lego2_0024_and_you_said_it.mp4] <br> - Anddd! You {{c1::said}} it.; tr: Veee! Söyledin; lego2
+[sound:lego2_0025_oh_come_on_ive_got_a_plan.mp4] <br> - Oh {{c1::come on}}. I've {{c2::got}} a {{c3::plan}}.; tr: - Aaa, gel hadi. Bir planım var.; lego2
+[sound:lego2_0026_step_one_get_everyone_together_in_town_square.mp4] <br> - {{c1::Step one}}. Get {{c2::everyone}} together in town square; tr: - Birinci adım. Herkesi şehir meydanında topla.; lego2
+[sound:lego2_0027_step_two_ice_skating.mp4] <br> - {{c1::Step two}}. {{c2::Ice}} skating; tr: - İkinci adım. Buz pateni.; lego2
+[sound:lego2_0028_step_three_decorate.mp4] <br> - Step three. Decorate this {{c1::town}} for the most tinsel tastic Apocalypseburg ever seen; tr: Üçüncü adım. Bütün şehri en tatlı büyülü dekorlarla süsle kimsenin görmediği.; lego2
+[sound:lego2_0029_lucy_when_this_tree_lights_up.mp4] <br> - Lucy, when this {{c1::tree}} {{c2::lights}} up; tr: - Lucy. Bu ağaç aydınlatıldığında; lego2
+[sound:lego2_0030_youll_be_able_to_see_it_from_space.mp4] <br> - You'll be able to {{c1::see}} it from {{c2::SPACE! SPACE!}}; tr: - Onu ta nereden göreceksin: uzaydan.; lego2
+[sound:lego2_0031_we_dont_need_anymore_unwanted_attention.mp4] <br> - We don't {{c1::need}} {{c2::anymore}} unwanted attention.; tr: - Bizim daha fazla istenmeyen ilgi ve alakaya ihtiyacımız yok.; lego2
+[sound:lego2_0032_relax.mp4] <br> - {{c1::Relax}}; tr: Rahatla; lego2
+[sound:lego2_0033_just_think_this_is_a_quiet.mp4] <br> - {{c1::just}} {{c2::think}} this is a quiet little neighborhood shindig with just a few of our closest friends and a tree you may or may not be able to see from SPACE!; tr: - Sadece şöyle düşün. Bu oldukça sessiz ve küçük bir mahalle kutlaması olacak. En yakın arkadaşlarımızandan birkaçıyla birlikte ve bir de uzaydan görünebilecek veya görünemeyecek bir ağaçla.; lego2
+[sound:lego2_0034_however_you_celebrate_let's_celebrate_together.mp4] <br> - {{c1::however}} you celebrate let's celebrate {{c2::together}}; tr: - Her ne şekilde kutlarsanız kutlayın, ama hep beraber kutlayalım; lego2
+[sound:lego2_0035_oh_it_looks_awesome.mp4] <br> - Oh! It {{c1::looks}} {{c2::awesome}}.; tr: - Oh! Muhteşem görünüyor.; lego2
+[sound:lego2_0036_shiny.mp4] <br> - {{c1::Shiny}}; tr: - Parıltılı; lego2
+[sound:lego2_0037_there_she_glows.mp4] <br> - {{c1::There}} she {{c2::glows}}; tr: - İşte parlıyor.; lego2
+[sound:lego2_0038_i_like_darkness.mp4] <br> - I {{c1::like}} {{c2::darkness}}. This isn't super {{c3::beautiful}}; tr: - Ben karanlığı severim. Bu süper güzel değil.; lego2
+[sound:lego2_0039_happy_holiday_i_was_not_expecting_that.mp4] <br> - Weee! Happpyy Holiday! <br> I was not {{c1::expecting}} {{c2::that}}; tr: - Weee! Mutlu tatiller. <br> - Ben bunu beklemiyordum.; lego2
+[sound:lego2_0040_hello_visitors_from_another_planet.mp4] <br> - hello {{c1::visitors}} from another {{c2::planet}}; tr: Merhaba başka bir gezegenden ziyaretçiler.; lego2
+[sound:lego2_0041_theres_no_need_to_fight_anymore.mp4] <br> - there's no {{c1::need}} to {{c2::fight}} {{c3::anymore}}. <br> - {{c4::See}}?; tr: - Daha fazla kavga etmeye bir gerek yok.; lego2
+[sound:lego2_0042_they_took_lucy_and_others.mp4] <br> - They {{c1::took}} Lucy and {{c2::others}}; tr: - Onlar Lucy'yi ve diğerlerini aldılar.; lego2
+[sound:lego2_0043_you_mind_if_i_save_your_life.mp4] <br> - {{c1::You mind}} if I {{c2::save}} your life <br> - {{c3::Not at all}}; tr: - Hayatını kurtarsam	senin için sorun olur mu?; lego2
+[sound:lego2_0044_are_those_dinosaurs.mp4] <br> - Are those {{c1::dinosaurs}}?; tr: Bunlar dinozor mu?; lego2
+[sound:lego2_0045_aliens_kidnapped_my_friends.mp4] <br> - {{c1::Aliens}} kidnapped my {{c2::friends}}. I am going to get them {{c3::back}}.; tr: Uzaylılar arkadaşlarımı kaçırdı.; lego2
+[sound:0046_lets_go_find_your_friends.mp4] <br> {{c1::Let's go}} find your {{c2::friends}}; tr: Haydi arkadaşlarını bulmaya gidelim; lego2
+[sound:0047_whos_the_good_boy.mp4] <br> Who is the good {{c1::boy}}? Yes, {{c2::you are}}; tr: Kimmiş uslu çocuk? Evet, sensin.; lego2
+[sound:0048_you_look_different.mp4] <br> - Lucy <br> - You look {{c1::different}} <br> - Did you {{c2::draw}} double dots on your face?; tr: - Lucy <br> - Sen farklı görünüyorsun <br> - Sen yüzüne noktalar mı çizdin?; lego2
+[sound:0049_you_almost_forgot_me.mp4] <br> - You almost {{c1::forgot}} me guys <br> - Oooh, {{c2::did we}}?; tr: - Neredeyse beni unuttunuz çocuklar? <br> - Aa, öyle mi?; lego2
+[sound:0050_im_literally_a_lantern.mp4] <br> - I'm literally a lantern <br> {{c1::How did}} you miss me?; lego2
+[sound:0051_everything_was_awesome.mp4] <br> - {{c2::Everything}} was awesome <br> - {{c1::Now}} everything is eek <br> - Hey Lucy; tr: - Her şey mükemmeldi <br> - Şimdi her şey iyk <br> - Hey Lucy; lego2
+[sound:0052_hang_on_to_your_friends.mp4] <br> - Lucy <br> - Emmet <br> - Nooo <br> - {{c1::Hang on}} to your friends; tr: Arkadaşlarına sıkı tutun; lego2
+[sound:0053_were_going_to_save_lucy.mp4] <br> - We're going to {{c1::save}} Lucy; - Biz Lucy'yi kurtaracağız; lego2
+[sound:0054_i_change_like_every_five_seconds.mp4] <br> - I {{c1::change}} like every five {{c2::seconds}}; - Her beş saniyede bir üstümü değiştiririm; lego2
+[sound:0055_i_can_change_my_form.mp4] <br> - I can {{c1::change}} my form to something else if this makes you uncomfortable; tr: Şiklimi farklı bir şeye dönüştürebilirim eğer bundan rahatsızsanız; lego2
+[sound:0056_no_you_go_back.mp4] <br> - No, {{c1::go back}}. Don't. {{c2::Horse}} was much more palatable; tr: Hayır, geri dön. Yapma. At çok daha hoştu.; lego2
+[sound:0058_now_everything_is_eek.mp4] <br> - Now, everything is eek. <br> - Hi Lucy. I {{c1::brought}} you {{c2::coffee}}; tr: - Şimdi her şey iyk <br> - Hey Lucy. Kahveni getirdim; lego2
+[sound:0059_coffee_the_bitter_liquid.mp4] <br> - {{c1::Coffee}}, the better liquid that {{c2::provides}} the only semblance of pleasure left in these dark times; tr: - Kahve, bu karanlık zamanlarda arta kalan zevki sağlayan iyi sıvı; lego2
+[sound:0060_ooh_my_goshness.mp4] <br> - Ooh {{c1::my goshness}} <br> - Did I {{c2::interrupt}} you brooding just now?; tr: - Aman tanrım. <br> - Senin derin düşüncelere dalmanı böldüm mü az önce?; lego2
+[sound:0061_times_have_changed.mp4] <br> - {{c1::Times}} have {{c2::changed}}. You need to change with them.; tr: - Zaman değişti. Sen de onunla birlikte değişmelisin.; lego2
+[sound:0062_weve_to_be_tough.mp4] <br> - We {{c1::have to be}} {{c2::tough}} and battle-ready.; tr: Sıkı ve savaşa hazır olmalıyız; lego2
+[sound:0063_who_are_you.mp4] <br> - {{c1::Who are you}}? <br> - My name is Rex. Danger Rex. Galaxy defending archaeologist, cowboy, and raptor trainer <br> - I don't get; - Sen kimsin? <br> - Benim adım Rex. Tehlikeli Rex. Galaksi savunucu arkeolog, kovboy ve dinozor eğitmeni. <br> - Ben anlamadım; lego2

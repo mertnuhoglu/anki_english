@@ -1,0 +1,5 @@
+#!/bin/bash
+#wget -i links
+#rename 's/--_us_1//' *.mp3
+#cat links | grep -Po '\w+--_us_1.mp3' | sed -e 's/.*/[sound:\0]/' -e 's/--_us_1//' | tee >(pbcopy) > files
+cat links | sed -e 's/ /_/g' | sed -e 's/.*/[sound:\0.mp3]/' | tee >(pbcopy) > files

@@ -1,0 +1,3 @@
+#!/bin/bash
+ls *.jpg | sed -e 's/\(word_\)\?\(\w\+\)/\2/' | sed -e 's/^lego_//' | sed -e 's/.jpg$//' | sed -e 's/_/ /g' | sed -e 's/^to //' | tee >(pbcopy) > words
+#ls *.jpg | sed -e 's/^word_//' | sed -e 's/^lego_//' | sed -e 's/_/ /g' | sed -e 's/.jpg//' | tee >(pbcopy) > words

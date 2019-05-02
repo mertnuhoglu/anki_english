@@ -1,0 +1,4 @@
+#!/bin/bash
+tags=$1
+sed -e 's/\t/ <br> /' -e 's/\t/; /' -e 's/\t/ <br> /' -e "s/$/; ${tags}/" sheets | tee >(pbcopy) > anki.txt
+

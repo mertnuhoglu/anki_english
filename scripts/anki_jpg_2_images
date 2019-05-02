@@ -1,0 +1,3 @@
+#!/bin/bash
+anki_rename_jpg
+ls *.jpg | sed -e 's/.*/<img src="\0"> <br> /' | tee >(pbcopy) > images

@@ -1,0 +1,4 @@
+#!/bin/bash
+mv -n *.jpg "/Users/mertnuhoglu/Library/Application Support/Anki2/ozgureminnuhoglu/collection.media/"
+mv -n *.mp3 "/Users/mertnuhoglu/Library/Application Support/Anki2/ozgureminnuhoglu/collection.media/"
+

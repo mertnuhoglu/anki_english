@@ -1,0 +1,5 @@
+#!/bin/bash
+rename 's/-/_/g' *.jpg
+rename 's/^word_//g' *.jpg
+rename 's/^(\w+).jpg$/word_$1.jpg/' *.jpg
+

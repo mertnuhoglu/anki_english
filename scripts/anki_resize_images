@@ -1,0 +1,10 @@
+#!/bin/bash
+rename 's/jpeg$/jpg/g' *.jpeg
+mogrify -format jpg *.pdf
+rm -f *.pdf
+mogrify -format jpg *.png
+mogrify -format jpg *.gif
+mogrify -quality 80 -density 300x300 -resize 400x400 *.jpg 
+rm -f *.png
+rm -f *.gif
+

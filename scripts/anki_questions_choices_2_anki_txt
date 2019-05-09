@@ -1,0 +1,8 @@
+#!/bin/bash
+#R -e "print(getwd())"
+if [ ! -f images_ordered ]; then
+	echo '' > images
+fi
+sed -e 's/^/word_/' -e 's/$/.jpg/' images_ordered | sed -e 's/.*/<img src="\0"> <br> /' > images 
+Rscript --vanilla ~/projects/anki_english/scripts/paste_files.R
+

@@ -1,0 +1,5 @@
+﻿#!/bin/bash
+anki_jpg_2_words 
+anki_jpg_2_mp3
+anki_mp3_2_concatted_mp3
+paste images words files | pbcopy

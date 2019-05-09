@@ -1,5 +1,7 @@
 #!/bin/bash
+PREFIX=${1:-word_}
+echo $PREFIX
 rename 's/-/_/g' *.jpg
-rename 's/^word_//g' *.jpg
-rename 's/^(\w+).jpg$/word_$1.jpg/' *.jpg
-
+rename 's/^'"$PREFIX"'//g' *.jpg
+rename 's/^(\w+).jpg$/'"$PREFIX"'$1.jpg/' *.jpg
+for f in *; do mv "$f" "$f.tmp"; mv "$f.tmp" "`echo $f | tr "[:upper:]" "[:lower:]"`"; done

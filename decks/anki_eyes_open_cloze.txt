@@ -1,0 +1,37 @@
+I {{c1::am going}} to stay at home <br> Evde kalacağım; eyes_open grammar
+<img src="word_lego_university.jpg"> <br> I {{c1::am going}} to think about university <br> Üniversite hakkında düşüneceğim; eyes_open grammar
+{{c1::Are we going}} to have a party <br> Bir parti yapacak mıyız?; eyes_open grammar
+Don't worry, I {{c1::will}} help you <br> Merak etme, sana yardım edeceğim; eyes_open grammar
+Who {{c1::are you talking}} to? <br> Kiminle konuşuyorsun?; eyes_open grammar
+She {{c1::is asking}} about the party tomorrow <br> Yarınki parti hakkında soru soruyor.;eyes_open grammar
+Are {{c1::you going}} to the cinema this evening <br> Bu akşam sinemaya gidiyor musun?; eyes_open grammar
+<img src="word_lego_watching.jpg"> <br> No, I'm not. I {{c1::am staying}} at home to watch the football <br> Hayır, yapmıyorum. Futbol izlemek için evde kalıyorum.; eyes_open grammar
+Why are {{c1::you saving}} money? <br> Neden para biriktiriyorsun?;eyes_open grammar
+You need {{c1::to take::take}} an umbrella. It's raining;eyes_open grammar
+I don't mind {{c1::getting up::get up}} early at the weekend;eyes_open grammar
+<img src="word_lego_driving.jpg"> <br> My brother's planning {{c1::to learn::learn}} to drive next summer. ; eyes_open grammar
+I promise {{c1::to be::be}} home before 11 o'clock. ;eyes_open grammar
+I really enjoy {{c1::cooking::cook}}. ;eyes_open grammar
+When I finish {{c1::tidying::tidy}} my room, I'll go out with my friends. ;eyes_open grammar
+<img src="word_grow_up.jpg"> <br> I't like to live in Paris when I grow {{c1::up::up / off}}. ;eyes_open grammar
+Every morning, I get {{c1::up::on / up}} at 7 am and I put on / out my school uniform. ;eyes_open grammar
+<img src="word_word_get_on_bus.jpg"> <br> To get to my school, I get {{c1::on::on / up}} the bus outside my house. ;eyes_open grammar
+If I can't find my keys, I look {{c1::for::for / at}} them under my bed. ;eyes_open grammar
+When you find out / in the answer to this question, can you write it {{c1::down::up / down}} here, please? ;eyes_open grammar
+If you buy clothes on the internet, you can't try them {{c1::on::on / out}}. ;eyes_open grammar
+If you haven't got enough money, I can pay {{c1::off}} your ticket. ;eyes_open grammar
+<img src="word_lego_spend_money.jpg"> <br> My sister always spends her money {{c1::on}} sweets and snacks. ;eyes_open grammar
+Last night, I dreamt {{c1::of}} a large dog. ;eyes_open grammar
+Please listen {{c1::to}} these instructions carefully. ;eyes_open grammar
+In History, we're learning {{c1::about}} famous explorers. ;eyes_open grammar
+<img src="word_lego_wait.jpg"> <br> Don't worry if you're late. We can wait {{c1::for}} you. ;eyes_open grammar
+I signed into the website but I {{c1::couldn't::couldn't / don't / shouldn't}} see where to post my blog. ;eyes_open grammar
+We {{c1::must post::'re posting / will post / must post}} three blogs on the class website before Friday. ;eyes_open grammar
+Miss Ross explained how to do it in class and it sounded like {{c1::the easiest::easiest / the easiest / the easier}} thing to do. ;eyes_open grammar
+I {{c1::wasn't listening::couldn't listen / wasn't listening / weren't listening}} very carefully and now I've got no idea! ;eyes_open grammar
+If I {{c1::don't post::won't post / don't post / am not posting}} my blog entries, I {{c1::won't get::didn't get / won't get / am not getting}} a mark. What {{c1::should::should / did / will}} I do? ;eyes_open grammar
+I think it's {{c1::best::good / better / best}} to give homework to do in our books than online. ;eyes_open grammar
+Do you think in future we {{c1::will do::are doing / will do / were doing}} our homework on the Internet and we {{c1::won't use::couldn't use / are not using / won't use}} paper anymore? ;eyes_open grammar
+{{c1::I am not seeing Sonia after school.::am / Sonia / I /after school / seeing / not}} ;eyes_open grammar
+{{c1::We are meeting tomorrow morning at eight.::We / meeting / tomorrow morning / at / are / eight}} ;eyes_open grammar
+{{c1::Two of my teachers are leaving in June.::Two of / are / in June / leaving / my teachers}} ;eyes_open grammar

@@ -1,5 +1,4 @@
 #!/bin/bash
-#ls *.jpg | sed -e 's/\(word_\)\?\(\w\+\)/\2/' | sed -e 's/^lego_//' | sed -e 's/.jpg$//' | sed -e 's/_/ /g' | sed -e 's/^to //' | tee >(pbcopy) > links
 
 sed -e 's/ /\n/g' words | sed -e 's#\w\+#https://ssl.gstatic.com/dictionary/static/sounds/oxford/\0--_us_1.mp3#' > links
 wget -i links

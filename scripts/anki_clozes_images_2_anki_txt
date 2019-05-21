@@ -1,0 +1,7 @@
+#!/bin/bash
+#R -e "print(getwd())"
+if [ ! -f images_ordered ]; then
+	echo '' > images
+fi
+sed -e '/\w\+/ s/^/word_/' -e '/\w\+/ s/$/.jpg/' images_ordered | sed -e '/\w\+/ s/.*/<img src="\0"> <br> /' > images 
+Rscript --vanilla ~/projects/anki_english/scripts/clozes_images_2_anki.R

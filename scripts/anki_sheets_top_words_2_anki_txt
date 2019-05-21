@@ -1,0 +1,2 @@
+#!/bin/bash
+Rscript --verbose --vanilla ~/projects/anki_english/scripts/anki_sheets_top_words_2_anki_txt.R

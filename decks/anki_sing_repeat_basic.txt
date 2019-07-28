@@ -1,0 +1,200 @@
+﻿[sound:sing_0002.mp4] <br> [...] everyone. ; Places, everyone. <br> Yerlerinize geçin, millet.; sing
+[sound:sing_0003.mp4] <br> [...] was it. ; This was it. <br> Bu andı.; sing
+[sound:sing_0004.mp4] <br> The moment it [...] began. ; The moment it all began. <br> Her şeyin başladığı an.; sing
+[sound:sing_0005.mp4] <br> The [...] an ordinary little guy <br> fell in love with the theater. ; The moment an ordinary little guy <br> fell in love with the theater. <br> Sıradan, küçük bir adamın, tiyatroya <br> âşık olduğu an.; sing
+[sound:sing_0006.mp4] <br> [...] about it. ; Everything about it. <br> Tiyatroyla ilgili her şeye.; sing
+[sound:sing_0007.mp4] <br> The [...] ; The lights, <br> Işıklara...; sing
+[sound:sing_0008.mp4] <br> the [...] the scenery moved, <br> even the smell. ; the way the scenery moved, <br> even the smell. <br> ...sahne dekorlarının <br> hareket etmesine, kokusuna bile.; sing
+[sound:sing_0009.mp4] <br> He [...] only six years old, <br> but his plans to become ; He was only six years old, <br> but his plans to become <br> Daha sadece 6 yaşındaydı <br> ama uzaydaki ilk koala...; sing
+[sound:sing_0010.mp4] <br> the [...] koala bear in space <br> were suddenly toast. ; the first koala bear in space <br> were suddenly toast. <br> ...olma planları aniden <br> suya düşmüştü.; sing
+[sound:sing_0011.mp4] <br> [...] folks may have said he grew <br> up to be the greatest showman ; Some folks may have said he grew <br> up to be the greatest showman <br> NA; sing
+[sound:sing_0012.mp4] <br> the [...] has ever seen. ; the city has ever seen. <br> NA; sing
+[sound:sing_0013.mp4] <br> [...] called him a visionary, <br> a maverick. ; Some called him a visionary, <br> a maverick. <br> Bazıları da ona biz hayalci, <br> bir başıboş dedi.; sing
+[sound:sing_0014.mp4] <br> [...] some folks said he was <br> as crazy as he was stubborn, ; Sure, some folks said he was <br> as crazy as he was stubborn, <br> Tabii, bazıları da keçi gibi <br> inatçı dedi...; sing
+[sound:sing_0015.mp4] <br> [...] I say wonder and magic <br> don't come easy, pal. ; but I say wonder and magic <br> don't come easy, pal. <br> ...ama bana sorarsanız, mucize ve <br> sihir öyle kolay kolay gelmez.; sing
+[sound:sing_0016.mp4] <br> And, oh, [...] would <br> never be any doubt. ; And, oh, there would <br> never be any doubt. <br> Ve hiç şüphe yoktu ki...; sing
+[sound:sing_0017.mp4] <br> The [...] Buster Moon would go <br> down in entertainment history. ; The name Buster Moon would go <br> down in entertainment history. <br> ...Buster Moon adı, eğlence tarihine <br> geçecekti.; sing
+[sound:sing_0018.mp4] <br> And I [...] know. ; And I should know. <br> NA; sing
+[sound:sing_0019.mp4] <br> [...] I am Buster... ; Because I am Buster... <br> NA; sing
+[sound:sing_0020.mp4] <br> - Moon! <br> - [...] this door! ; - Moon! <br> - Open this door! <br> Moon! <br> Aç şu kapıyı!; sing
+[sound:sing_0021.mp4] <br> Good [...] Mr. Moon. ; Good morning, Mr. Moon. <br> Günaydın, Bay Moon.; sing
+[sound:sing_0022.mp4] <br> [...] Crawly. What, uh... <br> What's going on? ; Miss Crawly. What, uh... <br> What's going on? <br> Bayan Crawly. Ne... <br> Neler oluyor?; sing
+[sound:sing_0023.mp4] <br> You [...] a lot of animals <br> waiting to see you, Mr. Moon. ; You got a lot of animals <br> waiting to see you, Mr. Moon. <br> Sizi görmeyi bekleyen bir <br> sürü hayvan var, Bay Moon.; sing
+[sound:sing_0024.mp4] <br> I [...] ; I do? <br> Öyle mi?; sing
+[sound:sing_0025.mp4] <br> [...] moly, I really do! ; Holy moly, I really do! <br> Vay anasını, gerçekten de var!; sing
+[sound:sing_0026.mp4] <br> Yeah, [...] the <br> stage crew from your last show. ; Yeah, it's the <br> stage crew from your last show. <br> Evet, son şovunuzdaki sahne <br> ekibi.; sing
+[sound:sing_0027.mp4] <br> They [...] <br> their paychecks bounced. ; They say <br> their paychecks bounced. <br> Çeklerinin karşılıksız <br> çıktığını söylüyorlar.; sing
+[sound:sing_0028.mp4] <br> Tell [...] I'll call up <br> the bank and make sure ; Tell them I'll call up <br> the bank and make sure <br> NA; sing
+[sound:sing_0029.mp4] <br> [...] paid tout de suite. ; they're paid tout de suite. <br> NA; sing
+[sound:sing_0030.mp4] <br> Oh, I [...] Judith from the bank <br> holding on line two right now, sir. ; Oh, I got Judith from the bank <br> holding on line two right now, sir. <br> Hat 2'de bankadan Judith <br> sizi bekliyor, efendim.; sing
+[sound:sing_0031.mp4] <br> Um, [...] I'm gonna <br> have to call her back. ; Um, actually, I'm gonna <br> have to call her back. <br> Aslında, onu geri aramam <br> gerekecek.; sing
+[sound:sing_0032.mp4] <br> Oh. [...] should I <br> tell her this time? ; Oh. What should I <br> tell her this time? <br> NA; sing
+[sound:sing_0033.mp4] <br> [...] her Buster Moon <br> is out to lunch. ; Tell her Buster Moon <br> is out to lunch. <br> NA; sing
+[sound:sing_0034.mp4] <br> Moon! <br> Open [...] door! ; Moon! <br> Open this door! <br> Moon! <br> Aç şu kapıyı!; sing
+[sound:sing_0035.mp4] <br> [...] on, Moon! ; Come on, Moon! <br> NA; sing
+[sound:sing_0036.mp4] <br> I [...] you're in there! ; I know you're in there! <br> NA; sing
+[sound:sing_0037.mp4] <br> [...] ; Moon! <br> Moon!; sing
+[sound:sing_0038.mp4] <br> Open this [...] ; Open this door! <br> Aç şu kapıyı!; sing
+[sound:sing_0039.mp4] <br> Mmm! [...] I heard <br> someone singing there. ; Mmm! Thought I heard <br> someone singing there. <br> Burada birinin şarkı söylediğini <br> duydum sanki.; sing
+[sound:sing_0040.mp4] <br> Ah, [...] ; Ah, whatever. <br> Neyse ya.; sing
+[sound:sing_0041.mp4] <br> Guys, [...] ; Guys, listen! <br> NA; sing
+[sound:sing_0042.mp4] <br> [...] where you are. <br> The cops are here... ; Stay where you are. <br> The cops are here... <br> NA; sing
+[sound:sing_0043.mp4] <br> [...] are you... <br> Hold it right there! ; What are you... <br> Hold it right there! <br> Sen ne... <br> Olduğun yerde kal!; sing
+[sound:sing_0044.mp4] <br> [...] go, go! ; Go, go, go! <br> Bas, bas, bas!; sing
+[sound:sing_0045.mp4] <br> [...] ; Whoa! <br> NA; sing
+[sound:sing_0046.mp4] <br> Johnny, [...] were supposed <br> to be keeping a lookout! ; Johnny, you were supposed <br> to be keeping a lookout! <br> Johnny, senin gözcü <br> olman lazımdı.; sing
+[sound:sing_0047.mp4] <br> [...] Dad. ; Sorry, Dad. <br> Üzgünüm, baba.; sing
+[sound:sing_0048.mp4] <br> And [...] your mask? ; And where's your mask? <br> Masken nerede?; sing
+[sound:sing_0049.mp4] <br> [...] at me, I'm Mommy! ; Look at me, I'm Mommy! <br> Bakın bana, ben Anne'yim.; sing
+[sound:sing_0050.mp4] <br> Caspar, [...] off the table. ; Caspar, get off the table. <br> Caspar, in masadan.; sing
+[sound:sing_0051.mp4] <br> Rosita, [...] you seen <br> my car keys? ; Rosita, have you seen <br> my car keys? <br> Rosita, arabamın anahtarlarını <br> gördün mü?; sing
+[sound:sing_0052.mp4] <br> Norman, [...] you please tell <br> them what a good singer I am? ; Norman, would you please tell <br> them what a good singer I am? <br> Norman, lütfen bunlara benim <br> nasıl bir şarkıcı olduğumu söyler misin?; sing
+[sound:sing_0053.mp4] <br> Oh, yeah, <br> [...] were great, honey. ; Oh, yeah, <br> you were great, honey. <br> Evet, harikaydın, tatlım.; sing
+[sound:sing_0054.mp4] <br> And [...] the way, the bathroom <br> sink is blocked again. ; And by the way, the bathroom <br> sink is blocked again. <br> Bu arada, banyo lavabosu <br> yine tıkanmış.; sing
+[sound:sing_0055.mp4] <br> Bye, [...] ; Bye, honey! <br> Güle güle, tatlım!; sing
+[sound:sing_0056.mp4] <br> One, [...] <br> One, two, three, four! ; One, two. <br> One, two, three, four! <br> Bir, iki. <br> Bir, iki, üç, dört!; sing
+[sound:sing_0057.mp4] <br> Oh, my [...] ; Oh, my gosh! <br> Aman Tanrım!; sing
+[sound:sing_0058.mp4] <br> I [...] you guys <br> said you were musicians! ; I thought you guys <br> said you were musicians! <br> Müzisyen olduğunuzu <br> söylediğinizi sanmıştım!; sing
+[sound:sing_0059.mp4] <br> Ash, [...] <br> I'm the lead singer, okay? ; Ash, babe. <br> I'm the lead singer, okay? <br> Ash, bebeğim. Solist benim, <br> tamam mı?; sing
+[sound:sing_0060.mp4] <br> [...] stick to <br> the backing vocals. ; Just stick to <br> the backing vocals. <br> NA; sing
+[sound:sing_0061.mp4] <br> Sorry, I [...] carried away. ; Sorry, I get carried away. <br> NA; sing
+[sound:sing_0062.mp4] <br> Yeah, I [...] right? ; Yeah, I know, right? <br> NA; sing
+[sound:sing_0063.mp4] <br> It just [...] of ruins <br> my song, you know? ; It just kind of ruins <br> my song, you know? <br> NA; sing
+[sound:sing_0064.mp4] <br> MEENA'S [...] <br> AND GRANDMOTHER: Aww! ; MEENA'S MOTHER <br> AND GRANDMOTHER: Aww! <br> NA; sing
+[sound:sing_0065.mp4] <br> [...] ; What? <br> Ne oldu?; sing
+[sound:sing_0066.mp4] <br> [...] on, make your wish. ; Come on, make your wish. <br> Hadi, bir dilek tut.; sing
+[sound:sing_0067.mp4] <br> Hmm! I [...] you'd join a choir. <br> A local band, or something. ; Hmm! I wish you'd join a choir. <br> A local band, or something. <br> Dilerim bir koroya katılırsın. <br> Yerel bir gruba falan.; sing
+[sound:sing_0068.mp4] <br> I [...] <br> Bah! ; I tried! <br> Bah! <br> NA; sing
+[sound:sing_0069.mp4] <br> Hey, hey, [...] <br> We've been over this. ; Hey, hey, Dad! <br> We've been over this. <br> NA; sing
+[sound:sing_0070.mp4] <br> So [...] a little shy. <br> So what? ; So she's a little shy. <br> So what? <br> Tamam, kız biraz utangaç. <br> Ne olmuş yani?; sing
+[sound:sing_0071.mp4] <br> If I had a [...] like Meena's, <br> I'd be a superstar by now! ; If I had a voice like Meena's, <br> I'd be a superstar by now! <br> Benim sesim Meena'nınki gibi <br> olsaydı, şimdiye süperstar olmuştum!; sing
+[sound:sing_0072.mp4] <br> Just [...] ; Just singing... <br> Sadece şöyle söyleyerek...; sing
+[sound:sing_0073.mp4] <br> Sure you [...] Grandpa. <br> Now blow out your candles. ; Sure you would, Grandpa. <br> Now blow out your candles. <br> Elbette olurdun, Dede. <br> Şimdi mumları üfle.; sing
+[sound:sing_0074.mp4] <br> A [...] ; A penny? <br> NA; sing
+[sound:sing_0075.mp4] <br> How [...] you! ; How dare you! <br> NA; sing
+[sound:sing_0076.mp4] <br> I [...] to have studied at <br> the Lincoln School of Music! ; I happen to have studied at <br> the Lincoln School of Music! <br> Ben Lincoln Müzik Okulunda <br> eğitim gördüm!; sing
+[sound:sing_0077.mp4] <br> Sorry, [...] all I got <br> right now. ; Sorry, it's all I got <br> right now. <br> NA; sing
+[sound:sing_0078.mp4] <br> Oh, is that [...] ; Oh, is that so? <br> NA; sing
+[sound:sing_0079.mp4] <br> All right, [...] it, pal! <br> What? ; All right, prove it, pal! <br> What? <br> NA; sing
+[sound:sing_0080.mp4] <br> [...] your pockets right now! ; Empty your pockets right now! <br> NA; sing
+[sound:sing_0081.mp4] <br> [...] to find... ; Trying to find... <br> Şeyi bulmaya çalışıyorum...; sing
+[sound:sing_0082.mp4] <br> [...] is this you got here? <br> I'm just trying to find... ; What is this you got here? <br> I'm just trying to find... <br> - Bu ne böyle? <br> - Şeyi bulmaya çalışıyorum ya...; sing
+[sound:sing_0083.mp4] <br> What do you [...] out of this? ; What do you smoke out of this? <br> NA; sing
+[sound:sing_0084.mp4] <br> [...] my inhaler. ; That's my inhaler. <br> NA; sing
+[sound:sing_0085.mp4] <br> A-ha! I [...] it! ; A-ha! I knew it! <br> Biliyordum!; sing
+[sound:sing_0086.mp4] <br> You all [...] it! You all saw it right here! <br> The monkey lied! ; You all saw it! You all saw it right here! <br> The monkey lied! <br> Hepiniz gördünüz! Hepiniz gördün! <br> Maymun yalan söyledi!; sing
+[sound:sing_0087.mp4] <br> I [...] I had that. ; I forgot I had that. <br> Unutmuşum onu.; sing
+[sound:sing_0088.mp4] <br> And [...] time, ; And next time, <br> NA; sing
+[sound:sing_0089.mp4] <br> pick on [...] your own size! ; pick on someone your own size! <br> NA; sing
+[sound:sing_0090.mp4] <br> You [...] ; You bully! <br> Zorba seni!; sing
+[sound:sing_0091.mp4] <br> [...] care of her, will you? ; Take care of her, will you? <br> Ona iyi bak, olur mu?; sing
+[sound:sing_0092.mp4] <br> [...] may look old and rusty, <br> but she is a classic! ; She may look old and rusty, <br> but she is a classic! <br> Eski ve paslanmış görünebilir <br> ama bir klasiktir!; sing
+[sound:sing_0093.mp4] <br> Okay, [...] <br> We both know that my theater ; Okay, listen. <br> We both know that my theater <br> Pekâlâ, dinle. İkimiz de, tiyatromun <br> son zamanlarda zor günler...; sing
+[sound:sing_0094.mp4] <br> has been [...] through some <br> pretty rough times lately. ; has been going through some <br> pretty rough times lately. <br> ...geçirdiğini biliyoruz.; sing
+[sound:sing_0095.mp4] <br> But as the saying [...] <br> 'For every cloud, a silver lining.' We've got... ; But as the saying goes, <br> 'For every cloud, a silver lining.' We've got... <br> Ama derler ya, 'Gün doğmadan <br> neler doğar.' Elimizde...; sing
+[sound:sing_0096.mp4] <br> [...] on <br> right there, Buster. ; Hold on <br> right there, Buster. <br> Orada bekle, Buster.; sing
+[sound:sing_0097.mp4] <br> My [...] he heard I was gonna see <br> you today and he was all like, ; My dad, he heard I was gonna see <br> you today and he was all like, <br> Babam seninle bugün buluşacağımı <br> duydu ve...; sing
+[sound:sing_0098.mp4] <br> 'Eddie, you [...] that koala I'm not <br> funding any more of those shows. ; 'Eddie, you tell that koala I'm not <br> funding any more of those shows. <br> ...'Eddie, o koalaya söyle, artık onun <br> şovlarını finanse etmiyorum.'; sing
+[sound:sing_0099.mp4] <br> 'And that's [...] <br> Those were his words. ; 'And that's final.' <br> Those were his words. <br> 'Bu kadar yeter.' dedi. <br> Böyle söyledi.; sing
+[sound:sing_0100.mp4] <br> Your [...] right. <br> Those shows were the problem. ; Your dad's right. <br> Those shows were the problem. <br> Baban haklı. Sorun o <br> şovlardı.; sing
+[sound:sing_0101.mp4] <br> [...] of Attrition. <br> Rosie Takes a Bow. ; War of Attrition. <br> Rosie Takes a Bow. <br> Pişmanlık Savaşı. <br> Rosie Alkışları Kabul Ediyor.; sing
+[sound:sing_0102.mp4] <br> I [...] nobody wants <br> to see that stuff anymore. ; I mean, nobody wants <br> to see that stuff anymore. <br> Yani, kimse artık bu şeyleri <br> görmek istemiyor.; sing
+[sound:sing_0103.mp4] <br> So, [...] do I do? ; So, what do I do? <br> Ben ne yapıyorum peki?; sing
+[sound:sing_0104.mp4] <br> [...] <br> No. ; Quit? <br> No. <br> - İstifa mı ediyorsun? <br> - Hayır.; sing
+[sound:sing_0105.mp4] <br> I give them a [...] they cannot <br> resist, which is gonna be... ; I give them a show they cannot <br> resist, which is gonna be... <br> Onlara karşı koyamayacakları bir <br> şov vereceğim ki o da...; sing
+[sound:sing_0107.mp4] <br> Just one [...] minute, <br> s'il vous plaît. ; Just one more minute, <br> s'il vous plaît. <br> NA; sing
+[sound:sing_0108.mp4] <br> [...] ; Merci! <br> NA; sing
+[sound:sing_0109.mp4] <br> [...] speak French. <br> They speak English here. ; Don't speak French. <br> They speak English here. <br> Fransızca konuşma. Burada <br> İngilizce konuşuluyor.; sing
+[sound:sing_0110.mp4] <br> Now, [...] next show <br> is gonna be... ; Now, my next show <br> is gonna be... <br> NA; sing
+[sound:sing_0111.mp4] <br> Drumroll, [...] ; Drumroll, please. <br> NA; sing
+[sound:sing_0112.mp4] <br> A singing [...] ; A singing competition! <br> NA; sing
+[sound:sing_0113.mp4] <br> A [...] competition? ; A singing competition? <br> NA; sing
+[sound:sing_0114.mp4] <br> Who [...] to see <br> another one of those? ; Who wants to see <br> another one of those? <br> Ondan bir tane daha <br> kim izlemek istiyor ki?; sing
+[sound:sing_0115.mp4] <br> [...] Just... <br> Just think. ; Everyone! Just... <br> Just think. <br> Herkes! Düşün... <br> Düşünsene.; sing
+[sound:sing_0116.mp4] <br> Your [...] the grocery store <br> manager, that chicken! Right there! ; Your neighbor, the grocery store <br> manager, that chicken! Right there! <br> Komşun, bakkal müdürü, şu <br> tavuk! Şuradaki!; sing
+[sound:sing_0117.mp4] <br> [...] in this city <br> gets a shot at being a star ; Everyone in this city <br> gets a shot at being a star <br> NA; sing
+[sound:sing_0118.mp4] <br> live on my [...] ; live on my stage! <br> NA; sing
+[sound:sing_0119.mp4] <br> Buster, [...] is <br> a terrible idea! ; Buster, this is <br> a terrible idea! <br> Buster, bu korkunç bir fikir!; sing
+[sound:sing_0120.mp4] <br> Oh! No, [...] not! ; Oh! No, it's not! <br> NA; sing
+[sound:sing_0121.mp4] <br> [...] talent from real life. ; Real talent from real life. <br> NA; sing
+[sound:sing_0122.mp4] <br> [...] what audiences want, <br> and I'm gonna give it to them! ; That's what audiences want, <br> and I'm gonna give it to them! <br> Seyircilerin istediği bu ve ben de <br> bunu onlara vereceğim!; sing
+[sound:sing_0123.mp4] <br> All [...] well... ; All right, well... <br> Pekâlâ, tamam...; sing
+[sound:sing_0124.mp4] <br> Can we please [...] get <br> out of here? Don't you wanna eat? ; Can we please just get <br> out of here? Don't you wanna eat? <br> - Buradan gidebilir miyiz lütfen? <br> - Yemek yemek istemiyor musun?; sing
+[sound:sing_0125.mp4] <br> Yeah, but we [...] <br> afford any of this. ; Yeah, but we can't <br> afford any of this. <br> İstiyorum ama benim bunlara <br> param yetmez.; sing
+[sound:sing_0126.mp4] <br> Yes, I [...] <br> and that's why... ; Yes, I know, <br> and that's why... <br> Evet, biliyorum ve <br> bu yüzden...; sing
+[sound:sing_0127.mp4] <br> I [...] sandwiches. ; I brought sandwiches. <br> NA; sing
+[sound:sing_0128.mp4] <br> Uh, [...] not allowed. <br> And... Ugh! ; Uh, that's not allowed. <br> And... Ugh! <br> NA; sing
+[sound:sing_0129.mp4] <br> What, you [...] like <br> peanut butter and jelly? ; What, you don't like <br> peanut butter and jelly? <br> Fıstık ezmeli ve reçelli <br> sevmiyor musun?; sing
+[sound:sing_0130.mp4] <br> [...] me, sir. ; Excuse me, sir. <br> Bir saniye, efendim.; sing
+[sound:sing_0131.mp4] <br> Okay, [...] I got cream cheese, <br> I got banana... ; Okay, look, I got cream cheese, <br> I got banana... <br> Bak, krem peynir var, <br> muzlu var...; sing
+[sound:sing_0132.mp4] <br> You [...] ; You okay? <br> İyi misin?; sing
+[sound:sing_0133.mp4] <br> Yup. Never [...] ; Yup. Never better. <br> Evet, hiç daha iyi olmamıştım.; sing
+[sound:sing_0134.mp4] <br> [...] Crawly? ; Miss Crawly? <br> Bayan Crawly?; sing
+[sound:sing_0135.mp4] <br> [...] ; Hello? <br> NA; sing
+[sound:sing_0136.mp4] <br> Uh, [...] is it? ; Uh, who is it? <br> NA; sing
+[sound:sing_0137.mp4] <br> [...] me. ; It's me. <br> NA; sing
+[sound:sing_0138.mp4] <br> Your [...] Mr. Moon. ; Your boss. Mr. Moon. <br> NA; sing
+[sound:sing_0139.mp4] <br> Oh, hello, [...] Moon. <br> There we go. ; Oh, hello, Mr. Moon. <br> There we go. <br> - Merhaba, Bay Moon. <br> - İşte oldu.; sing
+[sound:sing_0140.mp4] <br> Now, I [...] you to add the following <br> information to our publicity flyers. ; Now, I need you to add the following <br> information to our publicity flyers. <br> Tanıtım ilanlarımıza şunları da <br> eklemenizi istiyorum.; sing
+[sound:sing_0141.mp4] <br> Yes, [...] ; Yes, sir. <br> Elbette, efendim.; sing
+[sound:sing_0142.mp4] <br> The [...] of the singing contest <br> will receive a grand prize of... ; The winner of the singing contest <br> will receive a grand prize of... <br> Şarkı söyleme yarışmasının kazananı <br> büyük ödül olan...; sing
+[sound:sing_0143.mp4] <br> Uh, [...] ; Uh, there. <br> İşte.; sing
+[sound:sing_0144.mp4] <br> [...] them up on every <br> single sheet of paper we have left, ; Print them up on every <br> single sheet of paper we have left, <br> Elimizde kalan tüm kâğıtlara <br> bastır bunu...; sing
+[sound:sing_0145.mp4] <br> and [...] spread the word <br> right away, okay? ; and let's spread the word <br> right away, okay? <br> ...ve hemen haberi yaymaya <br> başla, tamam mı?; sing
+[sound:sing_0146.mp4] <br> Oh, yes, [...] ; Oh, yes, sir. <br> Baş üstüne, efendim.; sing
+[sound:sing_0147.mp4] <br> Okay. [...] on out of there. ; Okay. Come on out of there. <br> Hadi, çık bakalım oradan.; sing
+[sound:sing_0148.mp4] <br> Ah, the [...] of change. ; Ah, the winds of change. <br> Değişim rüzgârları.; sing
+[sound:sing_0149.mp4] <br> Yep, [...] this show's a hit, <br> I'm gonna get you a fresh coat of paint. ; Yep, when this show's a hit, <br> I'm gonna get you a fresh coat of paint. <br> Evet, bu şov tuttuğunda, bir <br> kat daha boya attıracağım.; sing
+[sound:sing_0150.mp4] <br> How are we [...] with those <br> flyers, Miss Crawly? ; How are we doing with those <br> flyers, Miss Crawly? <br> İlanlar ne âlemde, Bayan Crawly?; sing
+[sound:sing_0151.mp4] <br> Oh, yes, [...] <br> We're all good to go here. ; Oh, yes, sir. <br> We're all good to go here. <br> Hallettim, efendim. <br> Artık dağıtabiliriz.; sing
+[sound:sing_0153.mp4] <br> Miss Crawly, [...] No, no, no! ; Miss Crawly, no! No, no, no! <br> Bayan Crawly, Hayır! Hayır! <br> Hayır!; sing
+[sound:sing_0154.mp4] <br> [...] ; Oopsie-daisy. <br> NA; sing
+[sound:sing_0155.mp4] <br> [...] I guess that's <br> one way to spread the word. ; Well, I guess that's <br> one way to spread the word. <br> NA; sing
+[sound:sing_0156.mp4] <br> Hey, Lance, [...] at this! ; Hey, Lance, look at this! <br> NA; sing
+[sound:sing_0157.mp4] <br> Ash, [...] Hey! ; Ash, babe. Hey! <br> NA; sing
+[sound:sing_0158.mp4] <br> [...] ; Meena! <br> Meena!; sing
+[sound:sing_0159.mp4] <br> [...] hey, hey! <br> What do you think you're... ; Hey, hey, hey! <br> What do you think you're... <br> Sen ne yaptığını sanıyorsun...; sing
+[sound:sing_0160.mp4] <br> Uh-huh. [...] ; Uh-huh. Yeah. <br> Evet.; sing
+[sound:sing_0163.mp4] <br> [...] go to work! ; Let's go to work! <br> Hadi işe gidelim!; sing
+[sound:sing_0164.mp4] <br> And cue the [...] old lizard. ; And cue the crazy old lizard. <br> Ve çılgın yaşlı kertenkeleyi <br> çağıralım.; sing
+[sound:sing_0165.mp4] <br> [...] morning, Mr. Moon. ; Good morning, Mr. Moon. <br> Günaydın, Bay Moon.; sing
+[sound:sing_0166.mp4] <br> [...] it is, Miss Crawly. <br> Top of the morning to you. ; Indeed it is, Miss Crawly. <br> Top of the morning to you. <br> Aynen öyle, aydın bir gün, Bayan <br> Crawly. En güzel sabahlar sizin olsun.; sing
+[sound:sing_0167.mp4] <br> I [...] you some coffee. ; I made you some coffee. <br> Size kahve yaptım.; sing
+[sound:sing_0168.mp4] <br> You [...] Where is it? ; You did? Where is it? <br> Öyle mi? Nerede?; sing
+[sound:sing_0169.mp4] <br> Oh. I got a little [...] <br> on the way up those stairs. ; Oh. I got a little thirsty <br> on the way up those stairs. <br> Merdivenleri çıkarken <br> susadım biraz.; sing
+[sound:sing_0170.mp4] <br> Shall I go [...] the doors now? <br> The doors? ; Shall I go open the doors now? <br> The doors? <br> - Kapıları açayım mı şimdi? <br> - Kapıları mı?; sing
+[sound:sing_0171.mp4] <br> You've got a lot of [...] waiting <br> in line to audition, Mr. Moon. ; You've got a lot of animals waiting <br> in line to audition, Mr. Moon. <br> Seçmelere katılmak için sırada bekleyen <br> bir sürü hayvan var, Bay Moon.; sing
+[sound:sing_0172.mp4] <br> I [...] ; I do? <br> Öyle mi?; sing
+[sound:sing_0173.mp4] <br> [...] moly, I really do. ; Holy moly, I really do. <br> Vay anasını, gerçekten de var!; sing
+[sound:sing_0174.mp4] <br> I [...] to you, Eddie! <br> This is no joke! ; I swear to you, Eddie! <br> This is no joke! <br> Sana yemin ederim, Eddie! <br> Bu bir şaka değil!; sing
+[sound:sing_0175.mp4] <br> Look, just get [...] here and <br> see for yourself! I gotta go. ; Look, just get down here and <br> see for yourself! I gotta go. <br> Bak, buraya gel ve kendi gözlerine <br> gör! Kapatmalıyım.; sing
+[sound:sing_0176.mp4] <br> This is [...] Miss Crawly! ; This is it, Miss Crawly! <br> İşte bu, Bayan Crawly!; sing
+[sound:sing_0177.mp4] <br> Get your scaly [...] downstairs <br> and throw those doors open wide! ; Get your scaly tail downstairs <br> and throw those doors open wide! <br> O pullu kuyruğunuzla aşağı inin ve <br> kapıları ağzına kadar açın!; sing
+[sound:sing_0178.mp4] <br> Okay, um, [...] at a time, <br> please. Calm down. ; Okay, um, one at a time, <br> please. Calm down. <br> Tamam, teker teker, lütfen. <br> Sakin olun.; sing
+[sound:sing_0179.mp4] <br> [...] Iggy. Bye, Perry. <br> Bye, Carla. ; Bye, Iggy. Bye, Perry. <br> Bye, Carla. <br> Güle güle, Iggy. Güle güle, <br> Perry. Güle güle, Carla.; sing
+[sound:sing_0184.mp4] <br> Uh, [...] hear from a few more <br> of the folks in line. ; Uh, let's hear from a few more <br> of the folks in line. <br> Diğer sırada bekleyenleri <br> de bir dinleyelim!; sing
+[sound:sing_0185.mp4] <br> What [...] you, sir? ; What about you, sir? <br> Ya siz, efendim?; sing
+[sound:sing_0186.mp4] <br> Well, Bob, <br> I'm a [...] technician ; Well, Bob, <br> I'm a lab technician <br> NA; sing
+[sound:sing_0187.mp4] <br> [...] a leading <br> pharmaceutical company, ; for a leading <br> pharmaceutical company, <br> NA; sing
+[sound:sing_0188.mp4] <br> but [...] was born with a gift. ; but I was born with a gift. <br> ...ama doğuştan <br> gelen bir yeteneğim var.; sing
+[sound:sing_0189.mp4] <br> And that [...] is to sing! ; And that gift is to sing! <br> Ve bu da şarkı söyleme yeteneği!; sing
+[sound:sing_0190.mp4] <br> Oi, Dad! <br> Just going [...] ; Oi, Dad! <br> Just going out. <br> Baba! Ben dışarı çıkıyorum.; sing
+[sound:sing_0191.mp4] <br> Well, don't be [...] <br> I got the gang coming over. ; Well, don't be long. <br> I got the gang coming over. <br> Geç kalma. Benim kırıklar gelecek.; sing
+[sound:sing_0192.mp4] <br> Look, [...] sure <br> you're gonna get ; Look, I'm sure <br> you're gonna get <br> NA; sing
+[sound:sing_0193.mp4] <br> a [...] of namby-pamby <br> animals in here, ; a lot of namby-pamby <br> animals in here, <br> NA; sing
+[sound:sing_0194.mp4] <br> saying things [...] ; saying things like, <br> NA; sing
+[sound:sing_0195.mp4] <br> 'Oh, it's not [...] <br> It's the taking part that counts.' ; 'Oh, it's not winning. <br> It's the taking part that counts.' <br> NA; sing
+[sound:sing_0196.mp4] <br> Yeah, yeah. Not me, [...] <br> I'm here to win. ; Yeah, yeah. Not me, pal. <br> I'm here to win. <br> Ben onlardan değilim, dostum. <br> Ben kazanmaya geldim.; sing
+[sound:sing_0197.mp4] <br> That [...] it's mine! ; That prize, it's mine! <br> O ödül benim olacak!; sing
+[sound:sing_0198.mp4] <br> Wow! [...] you, Johnny. ; Wow! Thank you, Johnny. <br> Teşekkürler, Johnny.; sing
+[sound:sing_0199.mp4] <br> Okay, [...] up we have Meena. ; Okay, next up we have Meena. <br> NA; sing
+[sound:sing_0200.mp4] <br> Good [...] out there. ; Good luck out there. <br> NA; sing
+[sound:sing_0201.mp4] <br> All [...] come on. Here we go. <br> Come on, you can do it. ; All right, come on. Here we go. <br> Come on, you can do it. <br> Pekâlâ, hadi bakalım. İşte <br> başlıyoruz. Hadi, başarabilirsin.; sing
+[sound:sing_0202.mp4] <br> You can [...] it. Okay. ; You can do it. Okay. <br> Başarabilirsin. Tamam.; sing
+[sound:sing_0203.mp4] <br> Oh, I'm [...] ; Oh, I'm sorry. <br> Üzgünüm.; sing
+[sound:sing_0204.mp4] <br> Okay. Hey, it's [...] right. <br> You know, it's all right. ; Okay. Hey, it's all right. <br> You know, it's all right. <br> Tamam. Sorun yok, sorun yok.; sing
+[sound:sing_0205.mp4] <br> [...] it away, Meena! ; Take it away, Meena! <br> Seni dinliyoruz, Meena!; sing
+[sound:sing_0206.mp4] <br> Uh... [...] Uh... ; Uh... Okay. Uh... <br> Tamam...; sing
+[sound:sing_0207.mp4] <br> [...] now. ; Anytime, now. <br> Ne zaman istersen.; sing
+[sound:sing_0209.mp4] <br> Do [...] <br> wanna start over? ; Do you <br> wanna start over? <br> Baştan başlamak ister misin?; sing
+[sound:sing_0211.mp4] <br> All right, [...] of that! <br> That's quite enough of that. ; All right, enough of that! <br> That's quite enough of that. <br> Tamam, bu kadar yeter! <br> Bu kadar yeter.; sing

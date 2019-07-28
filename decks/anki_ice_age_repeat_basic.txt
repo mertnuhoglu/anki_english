@@ -1,0 +1,128 @@
+﻿[sound:ice_age_0002.mp4] <br> [...] not call it <br> the Big Chill or the Nippy era? ; Why not call it <br> the Big Chill or the Nippy era?; ice_age
+[sound:ice_age_0003.mp4] <br> [...] just sayin', <br> how do we know it's an Ice age? ; I'm just sayin', <br> how do we know it's an Ice age?; ice_age
+[sound:ice_age_0004.mp4] <br> [...] of all the ice. ; Because of all the ice.; ice_age
+[sound:ice_age_0005.mp4] <br> Well, [...] just got a little chillier. ; Well, things just got a little chillier.; ice_age
+[sound:ice_age_0006.mp4] <br> [...] Help. ; Help. Help.; ice_age
+[sound:ice_age_0007.mp4] <br> [...] on, kids, let's go. The traffic's movin'. ; Come on, kids, let's go. The traffic's movin'.; ice_age
+[sound:ice_age_0008.mp4] <br> [...] but, but, Dad. ; But, but, but, Dad.; ice_age
+[sound:ice_age_0009.mp4] <br> No [...] You can play extinction later. ; No buts. You can play extinction later.; ice_age
+[sound:ice_age_0010.mp4] <br> OK. [...] on, guys. ; OK. Come on, guys.; ice_age
+[sound:ice_age_0011.mp4] <br> So, [...] Eddie? ; So, where's Eddie?; ice_age
+[sound:ice_age_0012.mp4] <br> He [...] he was on the verge <br> of an evolutionary breakthrough. ; He said he was on the verge <br> of an evolutionary breakthrough.; ice_age
+[sound:ice_age_0013.mp4] <br> [...] ; Really?; ice_age
+[sound:ice_age_0014.mp4] <br> I'm [...] ; I'm flying.; ice_age
+[sound:ice_age_0015.mp4] <br> [...] breakthrough. ; Some breakthrough.; ice_age
+[sound:ice_age_0016.mp4] <br> - [...] out. <br> - You're going the wrong way. ; - Look out. <br> - You're going the wrong way.; ice_age
+[sound:ice_age_0017.mp4] <br> [...] mammoth. ; Crazy mammoth.; ice_age
+[sound:ice_age_0018.mp4] <br> [...] the world a favour. <br> Move your issues off the road. ; Do the world a favour. <br> Move your issues off the road.; ice_age
+[sound:ice_age_0019.mp4] <br> [...] my trunk was that small, <br> I wouldn't draw attention to myself, pal. ; If my trunk was that small, <br> I wouldn't draw attention to myself, pal.; ice_age
+[sound:ice_age_0020.mp4] <br> [...] me a break. <br> We've been waddlin' all day. ; Give me a break. <br> We've been waddlin' all day.; ice_age
+[sound:ice_age_0021.mp4] <br> Go [...] Follow the crowd. ; Go ahead. Follow the crowd.; ice_age
+[sound:ice_age_0022.mp4] <br> [...] be quieter when you're gone. ; It'll be quieter when you're gone.; ice_age
+[sound:ice_age_0023.mp4] <br> Come on. If he [...] to <br> freeze to death, let him. ; Come on. If he wants to <br> freeze to death, let him.; ice_age
+[sound:ice_age_0024.mp4] <br> [...] up. I'm up. ; I'm up. I'm up.; ice_age
+[sound:ice_age_0025.mp4] <br> [...] and shine, everybody. <br> Huh? Zak? Marshall? ; Rise and shine, everybody. <br> Huh? Zak? Marshall?; ice_age
+[sound:ice_age_0026.mp4] <br> Bertie? [...] Fungus? ; Bertie? Uncle Fungus?; ice_age
+[sound:ice_age_0027.mp4] <br> Where is [...] Come on, guys, <br> we're gonna miss the mi-- ; Where is everybody? Come on, guys, <br> we're gonna miss the mi--; ice_age
+[sound:ice_age_0029.mp4] <br> They [...] without me. <br> They do this every year. ; They left without me. <br> They do this every year.; ice_age
+[sound:ice_age_0030.mp4] <br> Why? [...] anyone love me? ; Why? Doesn't anyone love me?; ice_age
+[sound:ice_age_0031.mp4] <br> [...] there anyone who cares <br> about Sid the Sloth? ; Isn't there anyone who cares <br> about Sid the Sloth?; ice_age
+[sound:ice_age_0032.mp4] <br> All [...] I'll just go by myself. ; All right, I'll just go by myself.; ice_age
+[sound:ice_age_0033.mp4] <br> [...] ; Sick.; ice_age
+[sound:ice_age_0034.mp4] <br> [...] body, kerb it next time. ; Wide body, kerb it next time.; ice_age
+[sound:ice_age_0035.mp4] <br> Oh, [...] Yuck. ; Oh, jeez. Yuck.; ice_age
+[sound:ice_age_0036.mp4] <br> I [...] believe it. Fresh wild greens. <br> Frank, where did you ever? ; I can't believe it. Fresh wild greens. <br> Frank, where did you ever?; ice_age
+[sound:ice_age_0037.mp4] <br> - Go [...] Dig in. <br> - A dandelion. ; - Go ahead. Dig in. <br> - A dandelion.; ice_age
+[sound:ice_age_0038.mp4] <br> - I [...] the frost wiped 'em all out. <br> - All but one. ; - I thought the frost wiped 'em all out. <br> - All but one.; ice_age
+[sound:ice_age_0039.mp4] <br> It [...] me so... I wanna... Yuck. ; It makes me so... I wanna... Yuck.; ice_age
+[sound:ice_age_0040.mp4] <br> This has [...] not been my day. <br> You know what I'm sayin', buddy? ; This has definitely not been my day. <br> You know what I'm sayin', buddy?; ice_age
+[sound:ice_age_0041.mp4] <br> What a [...] You rhinos <br> have tiny brains. Did you know that? ; What a mess. You rhinos <br> have tiny brains. Did you know that?; ice_age
+[sound:ice_age_0042.mp4] <br> It's just a [...] No offence. You probably <br> didn't even know what I'm talkin' about. ; It's just a fact. No offence. You probably <br> didn't even know what I'm talkin' about.; ice_age
+[sound:ice_age_0044.mp4] <br> A [...] Must be <br> the last one of the season. ; A dandelion. Must be <br> the last one of the season.; ice_age
+[sound:ice_age_0045.mp4] <br> - Carl. <br> - [...] Frank. ; - Carl. <br> - Easy, Frank.; ice_age
+[sound:ice_age_0046.mp4] <br> He [...] our salad. ; He ruined our salad.; ice_age
+[sound:ice_age_0047.mp4] <br> My [...] That was my mistake. Let me... ; My mistake. That was my mistake. Let me...; ice_age
+[sound:ice_age_0048.mp4] <br> No, no, [...] let me <br> take care of this. What is this? ; No, no, seriously, let me <br> take care of this. What is this?; ice_age
+[sound:ice_age_0049.mp4] <br> [...] cones. Oh, my goodness. <br> They're my favourite. ; Pine cones. Oh, my goodness. <br> They're my favourite.; ice_age
+[sound:ice_age_0050.mp4] <br> [...] That's good eating. ; Delicious. That's good eating.; ice_age
+[sound:ice_age_0051.mp4] <br> But [...] let me hog them all up. <br> Here, you have some. ; But don't let me hog them all up. <br> Here, you have some.; ice_age
+[sound:ice_age_0052.mp4] <br> [...] isn't it? Bon appétit. ; Tasty, isn't it? Bon appétit.; ice_age
+[sound:ice_age_0053.mp4] <br> [...] ; Now?; ice_age
+[sound:ice_age_0054.mp4] <br> [...] ; Now.; ice_age
+[sound:ice_age_0055.mp4] <br> - [...] pretend that I'm not here. <br> - I wanted to hit him at full speed. ; - Just pretend that I'm not here. <br> - I wanted to hit him at full speed.; ice_age
+[sound:ice_age_0056.mp4] <br> - [...] OK. We'll have some fun with him. <br> - Don't let them impale me. I wanna live. ; - That's OK. We'll have some fun with him. <br> - Don't let them impale me. I wanna live.; ice_age
+[sound:ice_age_0057.mp4] <br> - Get [...] me. <br> - Come on, you're makin' a scene. ; - Get off me. <br> - Come on, you're makin' a scene.; ice_age
+[sound:ice_age_0058.mp4] <br> [...] just take our furry piñata and go. ; We'll just take our furry piñata and go.; ice_age
+[sound:ice_age_0059.mp4] <br> If [...] not them today, <br> it's someone else tomorrow. ; If it's not them today, <br> it's someone else tomorrow.; ice_age
+[sound:ice_age_0060.mp4] <br> Well, [...] rather it not be today. OK? ; Well, I'd rather it not be today. OK?; ice_age
+[sound:ice_age_0061.mp4] <br> [...] break your neck <br> so you don't feel a thing. ; We'll break your neck <br> so you don't feel a thing.; ice_age
+[sound:ice_age_0062.mp4] <br> [...] a minute. I thought <br> rhinos were vegetarians. ; Wait a minute. I thought <br> rhinos were vegetarians.; ice_age
+[sound:ice_age_0063.mp4] <br> - An [...] point. <br> - Shut up. ; - An excellent point. <br> - Shut up.; ice_age
+[sound:ice_age_0064.mp4] <br> [...] says we're gonna eat him <br> after we kill him? ; Who says we're gonna eat him <br> after we kill him?; ice_age
+[sound:ice_age_0065.mp4] <br> I [...] like animals that kill for pleasure. ; I don't like animals that kill for pleasure.; ice_age
+[sound:ice_age_0066.mp4] <br> - [...] it for a mammal that cares. <br> - I'm a mammal that cares. ; - Save it for a mammal that cares. <br> - I'm a mammal that cares.; ice_age
+[sound:ice_age_0067.mp4] <br> [...] if either of you make it across that <br> sinkhole in front of ya, you get the sloth. ; OK, if either of you make it across that <br> sinkhole in front of ya, you get the sloth.; ice_age
+[sound:ice_age_0068.mp4] <br> [...] right, you losers. <br> You take one step and you're dead. ; That's right, you losers. <br> You take one step and you're dead.; ice_age
+[sound:ice_age_0069.mp4] <br> - You were [...] huh? <br> - Yeah. Yeah, that was a bluff. ; - You were bluffing, huh? <br> - Yeah. Yeah, that was a bluff.; ice_age
+[sound:ice_age_0070.mp4] <br> [...] him. ; Get him.; ice_age
+[sound:ice_age_0071.mp4] <br> A [...] ; A dandelion?; ice_age
+[sound:ice_age_0072.mp4] <br> We [...] it. ; We did it.; ice_age
+[sound:ice_age_0073.mp4] <br> - You have [...] eyes. <br> - Get off my face. ; - You have beautiful eyes. <br> - Get off my face.; ice_age
+[sound:ice_age_0074.mp4] <br> Whoa, we make a [...] team. <br> What do you say we head south together? ; Whoa, we make a great team. <br> What do you say we head south together?; ice_age
+[sound:ice_age_0075.mp4] <br> [...] Jump on my back <br> and relax the whole way. ; Great. Jump on my back <br> and relax the whole way.; ice_age
+[sound:ice_age_0076.mp4] <br> - Wow, [...] <br> - No. ; - Wow, really? <br> - No.; ice_age
+[sound:ice_age_0077.mp4] <br> [...] aren't you going south? <br> The change of seasons, migration instincts. ; Wait, aren't you going south? <br> The change of seasons, migration instincts.; ice_age
+[sound:ice_age_0078.mp4] <br> - [...] of this a-ringin' a bell? <br> - I guess not. Bye. ; - Any of this a-ringin' a bell? <br> - I guess not. Bye.; ice_age
+[sound:ice_age_0079.mp4] <br> OK, [...] Thanks for the help. <br> I can take it from here. ; OK, then. Thanks for the help. <br> I can take it from here.; ice_age
+[sound:ice_age_0080.mp4] <br> [...] overgrown weasel. <br> Wait till we get down there. ; You overgrown weasel. <br> Wait till we get down there.; ice_age
+[sound:ice_age_0081.mp4] <br> That [...] thing is way overrated. <br> The heat, the crowds - who needs it? ; That south thing is way overrated. <br> The heat, the crowds - who needs it?; ice_age
+[sound:ice_age_0082.mp4] <br> [...] this great? You and me, <br> two bachelors knockin' about in the wild. ; Isn't this great? You and me, <br> two bachelors knockin' about in the wild.; ice_age
+[sound:ice_age_0083.mp4] <br> No, you just [...] a bodyguard <br> so you don't become somebody's side dish. ; No, you just want a bodyguard <br> so you don't become somebody's side dish.; ice_age
+[sound:ice_age_0084.mp4] <br> [...] a very shrewd mammal. ; You're a very shrewd mammal.; ice_age
+[sound:ice_age_0085.mp4] <br> OK, [...] the way, Mr Big... <br> Didn't get the name. ; OK, lead the way, Mr Big... <br> Didn't get the name.; ice_age
+[sound:ice_age_0086.mp4] <br> - [...] <br> - Manfred? Yuck. ; - Manfred. <br> - Manfred? Yuck.; ice_age
+[sound:ice_age_0087.mp4] <br> How about [...] the Moody Mammoth? <br> Or Manny the Melancholy... Manny the... ; How about Manny the Moody Mammoth? <br> Or Manny the Melancholy... Manny the...; ice_age
+[sound:ice_age_0088.mp4] <br> [...] following me. ; Stop following me.; ice_age
+[sound:ice_age_0089.mp4] <br> OK, so you've got [...] You won't <br> even know I'm here. I'll just zip the lip. ; OK, so you've got issues. You won't <br> even know I'm here. I'll just zip the lip.; ice_age
+[sound:ice_age_0090.mp4] <br> Look [...] the cute little baby, Diego. ; Look at the cute little baby, Diego.; ice_age
+[sound:ice_age_0091.mp4] <br> - [...] it nice he'll be joining us for breakfast? <br> - It wouldn't be breakfast without him. ; - Isn't it nice he'll be joining us for breakfast? <br> - It wouldn't be breakfast without him.; ice_age
+[sound:ice_age_0092.mp4] <br> Especially [...] his daddy wiped out half <br> our pack and wears our skin to keep warm. ; Especially since his daddy wiped out half <br> our pack and wears our skin to keep warm.; ice_age
+[sound:ice_age_0093.mp4] <br> An [...] for an eye, don't you think? ; An eye for an eye, don't you think?; ice_age
+[sound:ice_age_0094.mp4] <br> Let's [...] him what happens <br> when he messes with sabres. ; Let's show him what happens <br> when he messes with sabres.; ice_age
+[sound:ice_age_0095.mp4] <br> Alert the [...] We attack at dawn. ; Alert the troops. We attack at dawn.; ice_age
+[sound:ice_age_0096.mp4] <br> And, Diego, [...] me that baby alive. ; And, Diego, bring me that baby alive.; ice_age
+[sound:ice_age_0097.mp4] <br> If I'm [...] enjoy my revenge, <br> I want it to be fresh. ; If I'm gonna enjoy my revenge, <br> I want it to be fresh.; ice_age
+[sound:ice_age_0098.mp4] <br> Phew. I'm [...] out. ; Phew. I'm wiped out.; ice_age
+[sound:ice_age_0099.mp4] <br> - That's your [...] <br> - You're a big guy. You got a lotta wood. ; - That's your shelter? <br> - You're a big guy. You got a lotta wood.; ice_age
+[sound:ice_age_0100.mp4] <br> - I'm a [...] guy. <br> - You got half a stick. ; - I'm a little guy. <br> - You got half a stick.; ice_age
+[sound:ice_age_0101.mp4] <br> But with my [...] stick and my highly <br> evolved brain, I shall create fire. ; But with my little stick and my highly <br> evolved brain, I shall create fire.; ice_age
+[sound:ice_age_0102.mp4] <br> [...] ; Fascinating.; ice_age
+[sound:ice_age_0103.mp4] <br> [...] see if brains triumph <br> over brawn tonight. Now, won't we? ; We'll see if brains triumph <br> over brawn tonight. Now, won't we?; ice_age
+[sound:ice_age_0104.mp4] <br> Think I [...] a spark. ; Think I saw a spark.; ice_age
+[sound:ice_age_0105.mp4] <br> Any [...] I could squeeze <br> in there with you, Manny, oI' pal? ; Any chance I could squeeze <br> in there with you, Manny, oI' pal?; ice_age
+[sound:ice_age_0106.mp4] <br> Isn't [...] someone else you can annoy? ; Isn't there someone else you can annoy?; ice_age
+[sound:ice_age_0107.mp4] <br> [...] Family? Poisonous reptiles? ; Friends? Family? Poisonous reptiles?; ice_age
+[sound:ice_age_0108.mp4] <br> My [...] abandoned me. <br> They just kinda migrated without me. ; My family abandoned me. <br> They just kinda migrated without me.; ice_age
+[sound:ice_age_0109.mp4] <br> You [...] see what they did last year. ; You should see what they did last year.; ice_age
+[sound:ice_age_0110.mp4] <br> They [...] up early and <br> tied my hands and feet ; They woke up early and <br> tied my hands and feet; ice_age
+[sound:ice_age_0111.mp4] <br> and [...] gagged me with a fieldmouse, ; and they gagged me with a fieldmouse,; ice_age
+[sound:ice_age_0112.mp4] <br> [...] their tracks, went <br> through water so I'd lose their scent, ; covered their tracks, went <br> through water so I'd lose their scent,; ice_age
+[sound:ice_age_0113.mp4] <br> and... [...] needs 'em, anyway? ; and... who needs 'em, anyway?; ice_age
+[sound:ice_age_0114.mp4] <br> So [...] about you? You have family? ; So what about you? You have family?; ice_age
+[sound:ice_age_0115.mp4] <br> OK, [...] tired. I see. <br> We'll talk more in the morning. ; OK, you're tired. I see. <br> We'll talk more in the morning.; ice_age
+[sound:ice_age_0116.mp4] <br> [...] Manfred? <br> Could you scooch over a drop? ; Manfred? Manfred? <br> Could you scooch over a drop?; ice_age
+[sound:ice_age_0117.mp4] <br> [...] on. Nobody falls asleep that fast. ; Come on. Nobody falls asleep that fast.; ice_age
+[sound:ice_age_0118.mp4] <br> [...] ; Manny.; ice_age
+[sound:ice_age_0119.mp4] <br> [...] Diego. Fall back. ; There's Diego. Fall back.; ice_age
+[sound:ice_age_0120.mp4] <br> - [...] the baby? <br> - I lost it over the falls. ; - Where's the baby? <br> - I lost it over the falls.; ice_age
+[sound:ice_age_0121.mp4] <br> You [...] it? ; You lost it?; ice_age
+[sound:ice_age_0122.mp4] <br> - I [...] that baby, Diego. <br> - I'll get it. ; - I want that baby, Diego. <br> - I'll get it.; ice_age
+[sound:ice_age_0123.mp4] <br> You'd [...] unless you want to <br> serve as a replacement. ; You'd better, unless you want to <br> serve as a replacement.; ice_age
+[sound:ice_age_0124.mp4] <br> We'll [...] up to Half Peak. Meet us there. ; We'll go up to Half Peak. Meet us there.; ice_age
+[sound:ice_age_0125.mp4] <br> It had [...] be alive. ; It had better be alive.; ice_age
+[sound:ice_age_0126.mp4] <br> Can we [...] you with that, Diego? ; Can we trust you with that, Diego?; ice_age
+[sound:ice_age_0127.mp4] <br> [...] go. ; Let's go.; ice_age
+[sound:ice_age_0128.mp4] <br> She [...] a hair off my shoulder and says, <br> 'If you have an extra mating dance, ; She picked a hair off my shoulder and says, <br> 'If you have an extra mating dance,; ice_age
+[sound:ice_age_0129.mp4] <br> at least [...] a female <br> with the same colour pelt.' ; at least pick a female <br> with the same colour pelt.'; ice_age
+[sound:ice_age_0130.mp4] <br> I [...] 'Whoa. She's gonna go <br> praying mantis on me.' ; I thought 'Whoa. She's gonna go <br> praying mantis on me.'; ice_age
+[sound:ice_age_0131.mp4] <br> If you [...] a mate, you should be loyal. <br> In your case, grateful. ; If you find a mate, you should be loyal. <br> In your case, grateful.; ice_age

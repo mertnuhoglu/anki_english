@@ -1,0 +1,8 @@
+#!/bin/bash
+tags=$1
+echo "${tags}"
+sed -e '1,1 d' sheets.tsv \
+	| awk -F '\t' -v tags="${tags}" \
+	    '{print $3, "<br> ", $2, "; ", $1, "<br> ", $3, " ;", tags}' \
+	| tee >(pbcopy) > anki.txt
+

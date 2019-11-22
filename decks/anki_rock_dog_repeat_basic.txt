@@ -1,0 +1,196 @@
+[sound:rock_dog_0002.mp4] <br> The [...] that settled here <br> call it Snow Mountain. ; The sheep that settled here <br> call it Snow Mountain. <br> NA; rock_dog
+[sound:rock_dog_0003.mp4] <br> The mastiffs [...] the villages <br> in these parts. ; The mastiffs protect the villages <br> in these parts. <br> Bu bölgedeki köyleri çomarlar korurlar.; rock_dog
+[sound:rock_dog_0004.mp4] <br> It's a [...] their kind has honored <br> for generations. ; It's a duty their kind has honored <br> for generations. <br> Nesiller boyunca <br> onurlarıyla yaptıkları bir görevdir.; rock_dog
+[sound:rock_dog_0005.mp4] <br> - [Bodi yips] <br> - [Fleetwood] And [...] here is Bodi. ; - [Bodi yips] <br> - [Fleetwood] And this here is Bodi. <br> Buradaki de Bodi.; rock_dog
+[sound:rock_dog_0006.mp4] <br> He [...] not look like much right now, <br> but just you wait. ; He may not look like much right now, <br> but just you wait. <br> Şu an pek bir şeye benzemeyebilir <br> ama sadece bekleyin.; rock_dog
+[sound:rock_dog_0007.mp4] <br> [...] wool. Make music. ; Make wool. Make music. <br> NA; rock_dog
+[sound:rock_dog_0008.mp4] <br> To me, [...] paradise. ; To me, it's paradise. <br> Bana göre, burası cennet.; rock_dog
+[sound:rock_dog_0009.mp4] <br> And the [...] I came from <br> is a distant memory. ; And the city I came from <br> is a distant memory. <br> Geldiğim şehirse uzak bir anı.; rock_dog
+[sound:rock_dog_0010.mp4] <br> [...] where there's sheep, <br> there's these guys. ; Because where there's sheep, <br> there's these guys. <br> Çünkü koyunların olduğu yerde <br> bu çocuklar da var.; rock_dog
+[sound:rock_dog_0011.mp4] <br> [...] ; II' <br> NA; rock_dog
+[sound:rock_dog_0012.mp4] <br> - [growling] <br> - [Fleetwood] [...] Mastiff Paw. ; - [growling] <br> - [Fleetwood] Deadly Mastiff Paw. <br> ...Ölümcül Çomar Patisi.; rock_dog
+[sound:rock_dog_0013.mp4] <br> we [...] all sure <br> they were gone for good. ; we were all sure <br> they were gone for good. <br> ...temelli gittiklerine emindik. <br> Fakat Khampa aksini düşünüyordu.; rock_dog
+[sound:rock_dog_0014.mp4] <br> But Khampa [...] otherwise. ; But Khampa figured otherwise. <br> NA; rock_dog
+[sound:rock_dog_0015.mp4] <br> - He built an [...] <br> - [inhales deeply] ; - He built an army. <br> - [inhales deeply] <br> Bir ordu kurdu. <br> Ve Bodi'yi eğitmeye başladı.; rock_dog
+[sound:rock_dog_0016.mp4] <br> And he [...] training Bodi. ; And he started training Bodi. <br> NA; rock_dog
+[sound:rock_dog_0017.mp4] <br> When Bodi [...] stay focused, that is. ; When Bodi could stay focused, that is. <br> Bodi'nin odaklandığı zamanlardı, bu.; rock_dog
+[sound:rock_dog_0018.mp4] <br> Khampa [...] that it was a distraction. ; Khampa said that it was a distraction. <br> NA; rock_dog
+[sound:rock_dog_0019.mp4] <br> - That we [...] to be vigilant. <br> - [sheep sobbing] ; - That we had to be vigilant. <br> - [sheep sobbing] <br> Uyanık olmalıydık.; rock_dog
+[sound:rock_dog_0020.mp4] <br> That's for [...] ; That's for sure. <br> NA; rock_dog
+[sound:rock_dog_0021.mp4] <br> - [...] you supposed to be somewhere? <br> - [Bodi] Am I? ; - Aren't you supposed to be somewhere? <br> - [Bodi] Am I? <br> - Bir yerde olman mı gerekiyor? <br> - Öyle mi?; rock_dog
+[sound:rock_dog_0022.mp4] <br> Oh! Oh, [...] right! <br> See you later, Fleetwood! ; Oh! Oh, yeah, right! <br> See you later, Fleetwood! <br> Sahi, evet, aynen! <br> Görüşürüz, Fleetwood!; rock_dog
+[sound:rock_dog_0023.mp4] <br> [...] ; II' <br> NA; rock_dog
+[sound:rock_dog_0025.mp4] <br> - [...] Go! Go! Go! Go! <br> - [sheep] Sorry. ; - Go! Go! Go! Go! Go! <br> - [sheep] Sorry. <br> Yürü! Yürü! Yürü! Yürü! Yürü! <br> Geç kaldın. Gene.; rock_dog
+[sound:rock_dog_0026.mp4] <br> - [sheep group grunting] <br> - [...] late. Again. ; - [sheep group grunting] <br> - You're late. Again. <br> NA; rock_dog
+[sound:rock_dog_0027.mp4] <br> [...] Dad. ; Sorry, Dad. <br> Özür dilerim, baba.; rock_dog
+[sound:rock_dog_0028.mp4] <br> [...] you go. ; There you go. <br> İşte böyle.; rock_dog
+[sound:rock_dog_0030.mp4] <br> - [sheep bleating] <br> - [...] on! Double time it! ; - [sheep bleating] <br> - Come on! Double time it! <br> Hadi! Koşar adım! Gidelim! <br> Gidelim! Yürüyün, yürüyün!; rock_dog
+[sound:rock_dog_0031.mp4] <br> [...] go! Let's go! Move it, move it! ; Let's go! Let's go! Move it, move it! <br> NA; rock_dog
+[sound:rock_dog_0032.mp4] <br> Whoa, whoa, whoa! <br> [...] on backwards. ; Whoa, whoa, whoa! <br> Just on backwards. <br> Ters olmuş. Hadi. <br> Ayarlandı. Yallah.; rock_dog
+[sound:rock_dog_0033.mp4] <br> [...] here. Adjust. There we go. ; Come here. Adjust. There we go. <br> NA; rock_dog
+[sound:rock_dog_0034.mp4] <br> - [sheep sentry 1] I [...] see a thing. <br> - Your eyes open? ; - [sheep sentry 1] I can't see a thing. <br> - Your eyes open? <br> - Hiçbir şey göremiyorum. <br> - Gözlerin açık mı?; rock_dog
+[sound:rock_dog_0035.mp4] <br> - [sheep sentry 1] Oh, yeah, [...] we go. <br> - [groans] ; - [sheep sentry 1] Oh, yeah, there we go. <br> - [groans] <br> - Evet, şimdi oldu. - Neden köpekler gibi <br> giyiniyoruz Khampa? - Cidden mi?; rock_dog
+[sound:rock_dog_0036.mp4] <br> [...] ; Really? <br> NA; rock_dog
+[sound:rock_dog_0037.mp4] <br> If the [...] thinks there's an army here, <br> they won't invade. ; If the enemy thinks there's an army here, <br> they won't invade. <br> Düşman burada bir ordu olduğunu <br> düşünürse işgal etmezler.; rock_dog
+[sound:rock_dog_0038.mp4] <br> - We've been [...] this! Come on! <br> - [sheep sentry 3] Oh, that's right! ; - We've been over this! Come on! <br> - [sheep sentry 3] Oh, that's right! <br> - Bunu konuşmuştuk! Hadi ama! <br> - Aynen!; rock_dog
+[sound:rock_dog_0039.mp4] <br> - [sheep agreeing] <br> - I [...] they're like a bunch of animals ; - [sheep agreeing] <br> - I swear, they're like a bunch of animals <br> Yemin ederim, kendilerini düşünemeyen <br> bir grup hayvan gibiler.; rock_dog
+[sound:rock_dog_0040.mp4] <br> [...] can't think for themselves. ; that can't think for themselves. <br> NA; rock_dog
+[sound:rock_dog_0041.mp4] <br> Yeah, yeah. <br> [...] I'm just gonna go ahead and... ; Yeah, yeah. <br> Well, I'm just gonna go ahead and... <br> - Evet, evet. Ben gidi- <br> - Nereye gidiyorsun?; rock_dog
+[sound:rock_dog_0042.mp4] <br> Whoa, whoa, where you [...] ; Whoa, whoa, where you going? <br> NA; rock_dog
+[sound:rock_dog_0043.mp4] <br> - You [...] your chores? <br> - Yeah. ; - You finish your chores? <br> - Yeah. <br> - Günlük işlerini bitirdin mi? - Evet. <br> - Rafları doldurdun mu? - Baştan sona.; rock_dog
+[sound:rock_dog_0044.mp4] <br> - Shelves [...] restocked? <br> - Front to back. ; - Shelves are restocked? <br> - Front to back. <br> NA; rock_dog
+[sound:rock_dog_0045.mp4] <br> - Shower [...] dewooled? <br> - Did it yesterday. ; - Shower drain dewooled? <br> - Did it yesterday. <br> - Banyo giderindeki yün? - Dün yapıldı. <br> - Havlu kurudu mu? - Yumuşak ve pofuduk.; rock_dog
+[sound:rock_dog_0046.mp4] <br> - Towels [...] <br> - Soft and fluffy. ; - Towels dried? <br> - Soft and fluffy. <br> NA; rock_dog
+[sound:rock_dog_0047.mp4] <br> - New [...] painted? <br> - Double-coated. ; - New heads painted? <br> - Double-coated. <br> - Yeni başlıklar boyandı mı? - Çift kaplı. <br> - Peki ya yoklama kağıtları? - Sıralandı.; rock_dog
+[sound:rock_dog_0048.mp4] <br> - What [...] the time cards? <br> - Sorted. ; - What about the time cards? <br> - Sorted. <br> NA; rock_dog
+[sound:rock_dog_0049.mp4] <br> Now, I... I [...] think <br> I told you about this, ; Now, I... I don't think <br> I told you about this, <br> Şimdi, bunu söylediğimi sanmıyorum <br> ama varış çizelgesi-; rock_dog
+[sound:rock_dog_0050.mp4] <br> but the punch [...] <br> has been making this... ; but the punch clock <br> has been making this... <br> NA; rock_dog
+[sound:rock_dog_0051.mp4] <br> Squeaking [...] <br> Oiled it two days ago, sir. ; Squeaking noise? <br> Oiled it two days ago, sir. <br> NA; rock_dog
+[sound:rock_dog_0052.mp4] <br> I [...] Dad. ; I mean, Dad. <br> NA; rock_dog
+[sound:rock_dog_0053.mp4] <br> Okay, well, [...] uh, I'll see you. ; Okay, well, I'll, uh, I'll see you. <br> Tamam, görüşürüz.; rock_dog
+[sound:rock_dog_0054.mp4] <br> He [...] you. ; He sees you. <br> NA; rock_dog
+[sound:rock_dog_0055.mp4] <br> - Oh, [...] Oh. <br> - Here he comes. ; - Oh, boy. Oh. <br> - Here he comes. <br> NA; rock_dog
+[sound:rock_dog_0056.mp4] <br> - He's [...] at you. <br> - Okay. ; - He's coming at you. <br> - Okay. <br> - Sana doğru geliyor. - Tamam. <br> - Neredeyse üstünde. Suratında.; rock_dog
+[sound:rock_dog_0057.mp4] <br> - He's almost on [...] of you. <br> - Whoo! ; - He's almost on top of you. <br> - Whoo! <br> NA; rock_dog
+[sound:rock_dog_0058.mp4] <br> He's in your [...] [Shockwave] ; He's in your face! [Shockwave] <br> NA; rock_dog
+[sound:rock_dog_0059.mp4] <br> Fail! You [...] too long, <br> everyone's dead. ; Fail! You took too long, <br> everyone's dead. <br> - Başarısız! Çok oyalandın, herkes öldü. <br> - Baba, ben sadece- - Bodi, Bodi, Bodi.; rock_dog
+[sound:rock_dog_0060.mp4] <br> - Dad, can I [...] <br> - Bodi, Bodi, Bodi. ; - Dad, can I just... <br> - Bodi, Bodi, Bodi. <br> NA; rock_dog
+[sound:rock_dog_0061.mp4] <br> You gotta [...] the fire inside. ; You gotta find the fire inside. <br> NA; rock_dog
+[sound:rock_dog_0062.mp4] <br> - Find that [...] <br> - Yeah. ; - Find that passion. <br> - Yeah. <br> NA; rock_dog
+[sound:rock_dog_0063.mp4] <br> Okay? [...] the wolf. ; Okay? Hate the wolf. <br> - Tamam mı? Kurttan nefret et. - Kurtlardan <br> nefret et. Nefret et onlardan. - İşte bu.; rock_dog
+[sound:rock_dog_0064.mp4] <br> - Hate [...] Hate 'em. <br> - There you go. ; - Hate wolves. Hate 'em. <br> - There you go. <br> NA; rock_dog
+[sound:rock_dog_0065.mp4] <br> - [...] stand 'em. <br> - Nice. ; - Can't stand 'em. <br> - Nice. <br> - Tahammül edemem. - Güzel. <br> - Tekmelemek istiyorum! - Bunu kullan.; rock_dog
+[sound:rock_dog_0066.mp4] <br> - [...] just kick 'em! <br> - Use that! ; - Wanna just kick 'em! <br> - Use that! <br> NA; rock_dog
+[sound:rock_dog_0067.mp4] <br> - I [...] the wolf! <br> - [sheep sentries] Wolf? Wolf! ; - I hit the wolf! <br> - [sheep sentries] Wolf? Wolf! <br> - Kurdu vurdum! - Kurt mu? Kurt! <br> - Sakin olun çocuklar! Yanlış alarm!; rock_dog
+[sound:rock_dog_0068.mp4] <br> Whoa, whoa, whoa! <br> [...] down guys! False alarm! ; Whoa, whoa, whoa! <br> Calm down guys! False alarm! <br> NA; rock_dog
+[sound:rock_dog_0069.mp4] <br> Oh, [...] on. ; Oh, come on. <br> NA; rock_dog
+[sound:rock_dog_0070.mp4] <br> [...] ; Hopeless. <br> NA; rock_dog
+[sound:rock_dog_0071.mp4] <br> - [...] <br> - [birds twittering] ; - Go! <br> - [birds twittering] <br> NA; rock_dog
+[sound:rock_dog_0072.mp4] <br> No, come [...] ; No, come back! <br> NA; rock_dog
+[sound:rock_dog_0073.mp4] <br> Hey! [...] Please! ; Hey! Stop! Please! <br> Dur! Lütfen!; rock_dog
+[sound:rock_dog_0074.mp4] <br> You [...] something! Hey! ; You dropped something! Hey! <br> Bir şey düşürdün!; rock_dog
+[sound:rock_dog_0075.mp4] <br> You... [...] dropped... something. ; You... you dropped... something. <br> Sen... bir şey... düşürdün.; rock_dog
+[sound:rock_dog_0076.mp4] <br> [...] Scattergood. ; Angus Scattergood. <br> Angus Scattergood.; rock_dog
+[sound:rock_dog_0077.mp4] <br> And... and [...] trying just to get back <br> to my roots. ; And... and I'm trying just to get back <br> to my roots. <br> Ayrıca- ayrıca köklerime dönmeye <br> çalışıyorum.; rock_dog
+[sound:rock_dog_0078.mp4] <br> You know, <br> [...] to where it all started. ; You know, <br> back to where it all started. <br> Biliyorsun, her şeyin başladığı <br> yere geri döndük.; rock_dog
+[sound:rock_dog_0079.mp4] <br> and the [...] you know... ; and the words, you know... <br> NA; rock_dog
+[sound:rock_dog_0080.mp4] <br> You know, I [...] just hooked, really. <br> "[guitar music playing] <br>  <br> 00:11:43.160 --> 00:11:44.286 <br> [guitar music playing] <br>  <br> 00:11:56.920 --> 00:12:00.720 <br> "So then I came down to the city <br> to Rock 'n' Roll Park, ; You know, I was just hooked, really. <br> "[guitar music playing] <br>  <br> 00:11:43.160 --> 00:11:44.286 <br> [guitar music playing] <br>  <br> 00:11:56.920 --> 00:12:00.720 <br> "So then I came down to the city <br> to Rock 'n' Roll Park, <br> NA; rock_dog
+[sound:rock_dog_0081.mp4] <br> 'cause you [...] these musicians have taken <br> the whole thing over, mate. ; 'cause you know these musicians have taken <br> the whole thing over, mate. <br> ...çünkü müzisyenler tüm her şeyi <br> devralmışlardı, adamım.; rock_dog
+[sound:rock_dog_0082.mp4] <br> And I [...] a band there in need <br> of a guitar, and then the rest is history. ; And I found a band there in need <br> of a guitar, and then the rest is history. <br> Ve gitariste ihtiyacı olan bir grup buldum <br> sonra da zaten gerisi malum.; rock_dog
+[sound:rock_dog_0083.mp4] <br> History [...] geography <br> and a little bit of mathematics. ; History and geography <br> and a little bit of mathematics. <br> Tarih ve coğrafya ve biraz da matematik.; rock_dog
+[sound:rock_dog_0084.mp4] <br> Even [...] your dad says, <br> 'Stop!' Don't stop. ; Even when your dad says, <br> 'Stop!' Don't stop. <br> Babanız 'Dur' dediğinde bile. <br> Durmayın!; rock_dog
+[sound:rock_dog_0085.mp4] <br> Got some [...] news for you. ; Got some great news for you. <br> NA; rock_dog
+[sound:rock_dog_0086.mp4] <br> - [...] some fabulous news. <br> - Mm-hmm. ; - Got some fabulous news. <br> - Mm-hmm. <br> NA; rock_dog
+[sound:rock_dog_0087.mp4] <br> I've [...] to become a musician. ; I've decided to become a musician. <br> - Bir müzisyen olmaya karar verdim. <br> - Ne? Nerede...; rock_dog
+[sound:rock_dog_0088.mp4] <br> I... I [...] I'm sorry, but see, <br> there's this guy named Angus! ; I... I know. I'm sorry, but see, <br> there's this guy named Angus! <br> Bi- Biliyorum. Özür dilerim, ama bak <br> Angus adlı bir adam var!; rock_dog
+[sound:rock_dog_0089.mp4] <br> And he was [...] me <br> about Rock 'n' Roll Park, ; And he was telling me <br> about Rock 'n' Roll Park, <br> Ve Rock 'n' Roll Park'tan bahsedip <br> grubumu bulmamı söyledi.; rock_dog
+[sound:rock_dog_0090.mp4] <br> and [...] my band. ; and finding my band. <br> NA; rock_dog
+[sound:rock_dog_0091.mp4] <br> And it [...] like, the answer <br> to the question of my life, Dad! ; And it was, like, the answer <br> to the question of my life, Dad! <br> Hayatımın sorusunun cevabı <br> gibiydi, baba!; rock_dog
+[sound:rock_dog_0092.mp4] <br> - Do you [...] <br> - Now I'm gonna have to get a new lock. ; - Do you understand? <br> - Now I'm gonna have to get a new lock. <br> - Anlıyor musun? <br> - Şimdi yeni bir kilit almam gerekecek.; rock_dog
+[sound:rock_dog_0093.mp4] <br> [...] those things grow on trees <br> around here. ; Like those things grow on trees <br> around here. <br> - Sanki buradaki ağaçta yetişiyorlar. <br> - Ne hissettiğimi hissetseydin.; rock_dog
+[sound:rock_dog_0094.mp4] <br> If you [...] feel what I'm feeling. Here. ; If you could feel what I'm feeling. Here. <br> NA; rock_dog
+[sound:rock_dog_0095.mp4] <br> That's [...] <br> Hand it over. Give me the... ; That's enough. <br> Hand it over. Give me the... <br> NA; rock_dog
+[sound:rock_dog_0096.mp4] <br> - [grunting] <br> - Bodi! [...] me that! Give me... ; - [grunting] <br> - Bodi! Give me that! Give me... <br> Bodi! Ver şunu bana! <br> Ver... Buraya gel!; rock_dog
+[sound:rock_dog_0097.mp4] <br> [...] here! ; Come here! <br> NA; rock_dog
+[sound:rock_dog_0098.mp4] <br> You're [...] be a guard. ; You're gonna be a guard. <br> NA; rock_dog
+[sound:rock_dog_0099.mp4] <br> Now, when you've [...] to your senses, <br> you're going to march down here ; Now, when you've come to your senses, <br> you're going to march down here <br> Şimdi, aklını başına devşirdiğinde <br> tıpış tıpış yürüyüp...; rock_dog
+[sound:rock_dog_0100.mp4] <br> and you're [...] to hand over <br> that noisemaker, ; and you're going to hand over <br> that noisemaker, <br> ...o gürültücü şeyi bana vereceksin...; rock_dog
+[sound:rock_dog_0101.mp4] <br> and we're going to [...] <br> this never happened! Agreed? ; and we're going to pretend <br> this never happened! Agreed? <br> ...ve bu hiç olmamış gibi davranacağız. <br> Anlaştık mı?; rock_dog
+[sound:rock_dog_0102.mp4] <br> I'll [...] your silence as a yes. ; I'll take your silence as a yes. <br> Sessizliğini evet olarak kabul ediyorum.; rock_dog
+[sound:rock_dog_0103.mp4] <br> I think [...] call folks like him <br> 'savants.' ; I think they call folks like him <br> 'savants.' <br> NA; rock_dog
+[sound:rock_dog_0104.mp4] <br> And it's [...] to lead <br> to trouble sooner or later. ; And it's going to lead <br> to trouble sooner or later. <br> Er ya da geç bela açacak. <br> Tahminimce daha erken.; rock_dog
+[sound:rock_dog_0105.mp4] <br> My guess is [...] ; My guess is sooner. <br> NA; rock_dog
+[sound:rock_dog_0106.mp4] <br> Say, isn't he [...] enough to take the post? ; Say, isn't he old enough to take the post? <br> Söylesene, görevini üstlenecek <br> yaşta değil mi?; rock_dog
+[sound:rock_dog_0107.mp4] <br> Yeah he [...] Floyd, <br> but he just doesn't take it seriously. ; Yeah he is, Floyd, <br> but he just doesn't take it seriously. <br> Evet öyle, Floyd <br> ama sadece ciddiye almıyor.; rock_dog
+[sound:rock_dog_0108.mp4] <br> Not [...] that thing fell out of the sky. ; Not since that thing fell out of the sky. <br> O şey gökyüzünden düştüğünden beri.; rock_dog
+[sound:rock_dog_0109.mp4] <br> Now [...] all rock this and roll that. ; Now it's all rock this and roll that. <br> - Artık her şey şu rock, bu roll. <br> - Ve Dingus adında biri. - Evet...; rock_dog
+[sound:rock_dog_0110.mp4] <br> - And [...] guy named Dingus. <br> - Yeah, ; - And some guy named Dingus. <br> - Yeah, <br> NA; rock_dog
+[sound:rock_dog_0111.mp4] <br> I guess I [...] a little like that <br> at his age. ; I guess I was a little like that <br> at his age. <br> ...sanırım onun yaşında <br> ben de biraz böyleydim.; rock_dog
+[sound:rock_dog_0112.mp4] <br> Had no [...] in being a barber. ; Had no interest in being a barber. <br> Berber olmak gibi bir niyetim yoktu. <br> Gönlümde astrofizikçi olmak vardı.; rock_dog
+[sound:rock_dog_0113.mp4] <br> Had my heart [...] on astrophysics. ; Had my heart set on astrophysics. <br> NA; rock_dog
+[sound:rock_dog_0114.mp4] <br> That is [...] my dad <br> showed me... The Book. ; That is until my dad <br> showed me... The Book. <br> Ta ki babam bana gösterene kadar... <br> Kitabı.; rock_dog
+[sound:rock_dog_0115.mp4] <br> - The [...] <br> - Hang on a sec. ; - The Book? <br> - Hang on a sec. <br> - Kitap mı? <br> - Bir saniye bekle.; rock_dog
+[sound:rock_dog_0116.mp4] <br> The Book. <br> [...] pictures of what can happen ; The Book. <br> Real pictures of what can happen <br> Kitap. Koyunlar uzun süre tırmarlanmazlarsa <br> olabileceklerin gerçek fotoğrafları.; rock_dog
+[sound:rock_dog_0117.mp4] <br> if sheep go too [...] without grooming. ; if sheep go too long without grooming. <br> NA; rock_dog
+[sound:rock_dog_0118.mp4] <br> Yep, one look at [...] scared me straight. ; Yep, one look at this scared me straight. <br> NA; rock_dog
+[sound:rock_dog_0119.mp4] <br> I [...] my apprenticeship the next day <br> and never looked back. ; I began my apprenticeship the next day <br> and never looked back. <br> Ertesi gün çıraklığıma başlayıp <br> asla geçmişe bakmadım.; rock_dog
+[sound:rock_dog_0120.mp4] <br> '[...] straight.' Huh. <br> Maybe that's what Bodi needs. ; 'Scared straight.' Huh. <br> Maybe that's what Bodi needs. <br> 'Korku adam etti'. Belki Bodi'nin de <br> ihtiyacı olan şey budur.; rock_dog
+[sound:rock_dog_0121.mp4] <br> - Hey, you wanna [...] The Book? <br> - No, Floyd. ; - Hey, you wanna borrow The Book? <br> - No, Floyd. <br> - Kitap ödünç almak ister misin? <br> - Hayır, Floyd. Daha iyi fikrim var sanırım.; rock_dog
+[sound:rock_dog_0122.mp4] <br> I think I've got a [...] idea. ; I think I've got a better idea. <br> NA; rock_dog
+[sound:rock_dog_0123.mp4] <br> Angus says it's [...] a fever <br> that takes hold and never lets you go. ; Angus says it's like a fever <br> that takes hold and never lets you go. <br> NA; rock_dog
+[sound:rock_dog_0124.mp4] <br> You [...] me, son. ; You disappoint me, son. <br> Beni hayal kırıklığına uğrattın, evlat. <br> Tamam, bu senin görevin.; rock_dog
+[sound:rock_dog_0125.mp4] <br> Okay, this is your [...] ; Okay, this is your post. <br> NA; rock_dog
+[sound:rock_dog_0126.mp4] <br> Get used to it. [...] you at dawn. ; Get used to it. See you at dawn. <br> - Buna alış. Şafakta görüşürüz. <br> - Gündoğumu mu? - Evet! Şafak! - Gündoğumu!; rock_dog
+[sound:rock_dog_0127.mp4] <br> - [...] <br> - Yes! Dawn! Sunrise! ; - Sunrise? <br> - Yes! Dawn! Sunrise! <br> NA; rock_dog
+[sound:rock_dog_0128.mp4] <br> First [...] in the morning! ; First thing in the morning! <br> - Sabah ilk iş! Gecenin sonu! <br> Hadi! - Tamam.; rock_dog
+[sound:rock_dog_0129.mp4] <br> - End of the [...] Come on! <br> - Oh. Okay. ; - End of the night! Come on! <br> - Oh. Okay. <br> NA; rock_dog
+[sound:rock_dog_0130.mp4] <br> - [sheep] [...] <br> - [sheep 2 shrieks] Wolf! ; - [sheep] Wolf! <br> - [sheep 2 shrieks] Wolf! <br> NA; rock_dog
+[sound:rock_dog_0131.mp4] <br> Wow, [...] <br> You've all forgotten the plan? ; Wow, seriously? <br> You've all forgotten the plan? <br> Yok artık, cidden mi? <br> Hepiniz planı unuttunuz mu?; rock_dog
+[sound:rock_dog_0132.mp4] <br> I specifically [...] you three ; I specifically picked you three <br> En iyi ve en parlak olduğunuz için <br> özellikle üçünüzü seçtim.; rock_dog
+[sound:rock_dog_0133.mp4] <br> [...] you're <br> the best and the brightest. ; because you're <br> the best and the brightest. <br> NA; rock_dog
+[sound:rock_dog_0134.mp4] <br> - Yeah, [...] sheep. <br> - Aah! ; - Yeah, for sheep. <br> - Aah! <br> - Evet, koyun için. <br> - Pekala, bunları giyin.; rock_dog
+[sound:rock_dog_0135.mp4] <br> All right, just [...] these on. ; All right, just put these on. <br> NA; rock_dog
+[sound:rock_dog_0136.mp4] <br> On my signal, <br> we [...] him the scare of his life. ; On my signal, <br> we give him the scare of his life. <br> NA; rock_dog
+[sound:rock_dog_0137.mp4] <br> That was the signal. ; [...] was the signal. <br> Sinyal buydu.; rock_dog
+[sound:rock_dog_0138.mp4] <br> [...] [Gasping] ; Wolf! [Gasping] <br> Kurt!; rock_dog
+[sound:rock_dog_0139.mp4] <br> [...] Wolf! [Screaming] ; Wolf! Wolf! [Screaming] <br> - Kurt! Kurt! <br> - Çocuklar! Benim!; rock_dog
+[sound:rock_dog_0140.mp4] <br> [...] your windows! <br> Lock your doors! ; Shut your windows! <br> Lock your doors! <br> - Pencerelerinizi kapatın! <br> Kapılarınızı kilitleyin! - Kurt!; rock_dog
+[sound:rock_dog_0141.mp4] <br> [...] ; Wolf! <br> NA; rock_dog
+[sound:rock_dog_0142.mp4] <br> - [...] that, you ding-busted wolf! <br> - Aah! ; - Take that, you ding-busted wolf! <br> - Aah! <br> Al bakalım, seni koca kafalı kurt!; rock_dog
+[sound:rock_dog_0143.mp4] <br> The wolves! <br> [...] here! They're coming! ; The wolves! <br> They're here! They're coming! <br> Kurtlar! <br> Geldiler! Geliyorlar!; rock_dog
+[sound:rock_dog_0144.mp4] <br> - [sheep 1] [...] <br> - [sheep 2] Help. Help. Please, help. ; - [sheep 1] Help. <br> - [sheep 2] Help. Help. Please, help. <br> - Yardım edin. - Yardım edin. Yardım. <br> Lütfen, yardım edin.; rock_dog
+[sound:rock_dog_0145.mp4] <br> Stay back. I'm [...] <br> ; Stay back. I'm dangerous. <br> - Geri çekilin. Tehlikeliyim. <br> ; rock_dog
+[sound:rock_dog_0146.mp4] <br> - Oh, yeah. <br> - Yeah, [...] of embarrassing, ; - Oh, yeah. <br> - Yeah, kind of embarrassing, <br> NA; rock_dog
+[sound:rock_dog_0147.mp4] <br> getting [...] by those <br> cockamamie wolf getups. [Laughs] ; getting fooled by those <br> cockamamie wolf getups. [Laughs] <br> NA; rock_dog
+[sound:rock_dog_0148.mp4] <br> Where'd Khampa get the [...] <br> to do a crazy thing like that, anyway? ; Where'd Khampa get the notion <br> to do a crazy thing like that, anyway? <br> Khampa, böyle delice bir şey yapma <br> fikrini nereden bulmuşsa, zaten?; rock_dog
+[sound:rock_dog_0149.mp4] <br> Hello, Khampa. How's [...] ; Hello, Khampa. How's things? <br> Selam, Khampa. İşler nasıl?; rock_dog
+[sound:rock_dog_0150.mp4] <br> [...] pin this one on me, Fleet. ; Don't pin this one on me, Fleet. <br> NA; rock_dog
+[sound:rock_dog_0151.mp4] <br> If [...] been doing his job <br> guarding the village... ; If he'd been doing his job <br> guarding the village... <br> - Köyü koruma işini yapıyor olsaydı... <br> - Bu senin işin sanıyordum.; rock_dog
+[sound:rock_dog_0152.mp4] <br> I [...] that was your job. ; I thought that was your job. <br> NA; rock_dog
+[sound:rock_dog_0153.mp4] <br> Well, yeah, it is my [...] <br> but I wasn't doing my job. ; Well, yeah, it is my job, <br> but I wasn't doing my job. <br> - Evet, benim işim ama işimi yapmıyordum. <br> - Sanırım bunu belli etmiştin.; rock_dog
+[sound:rock_dog_0154.mp4] <br> Bodi [...] you. He wants to go. ; Bodi isn't you. He wants to go. <br> - Bodi sen değil. Gitmek istiyor. <br> - Bu çok saçma bir konuşma.; rock_dog
+[sound:rock_dog_0155.mp4] <br> Well, [...] just crazy talk. ; Well, that's just crazy talk. <br> NA; rock_dog
+[sound:rock_dog_0156.mp4] <br> Who [...] is gonna guard this place <br> after I'm gone? ; Who else is gonna guard this place <br> after I'm gone? <br> - Gittikten sonra burayı kim koruyacak? <br> - Neyden? Kurtlardan mı?; rock_dog
+[sound:rock_dog_0157.mp4] <br> [...] what? The wolves? ; From what? The wolves? <br> NA; rock_dog
+[sound:rock_dog_0158.mp4] <br> [...] you're sitting up there waiting <br> for something that's never coming back. ; Maybe you're sitting up there waiting <br> for something that's never coming back. <br> Belki de orada oturup, asla dönmeyecek <br> bir şeyi beklemektesindir.; rock_dog
+[sound:rock_dog_0159.mp4] <br> What [...] they do, Fleet? ; What if they do, Fleet? <br> - Ya dönerlerse, Fleet? <br> - Peki, ya dönerlerse?; rock_dog
+[sound:rock_dog_0160.mp4] <br> Okay, what if [...] do? ; Okay, what if they do? <br> NA; rock_dog
+[sound:rock_dog_0161.mp4] <br> You [...] Bodi's gonna be able <br> to protect the village? ; You think Bodi's gonna be able <br> to protect the village? <br> Sence Bodi köyü koruyabilecek mi?; rock_dog
+[sound:rock_dog_0162.mp4] <br> He is [...] he is. ; He is who he is. <br> O, o.; rock_dog
+[sound:rock_dog_0163.mp4] <br> He's [...] for his own paradise. ; He's looking for his own paradise. <br> Kendi cennetini arıyor.; rock_dog
+[sound:rock_dog_0164.mp4] <br> [...] ; II' <br> NA; rock_dog
+[sound:rock_dog_0165.mp4] <br> [...] this? ; What's this? <br> - Bu nedir? <br> - Şehre git.; rock_dog
+[sound:rock_dog_0166.mp4] <br> Go to the [...] ; Go to the city. <br> NA; rock_dog
+[sound:rock_dog_0167.mp4] <br> But if you [...] you come back. ; But if you fail, you come back. <br> Ancak başarısız olursan, geri dönersin. <br> Ve bir daha asla müzikten bahsedemezsin.; rock_dog
+[sound:rock_dog_0168.mp4] <br> And you [...] speak of music again. ; And you never speak of music again. <br> NA; rock_dog
+[sound:rock_dog_0170.mp4] <br> Come back and see us [...] huh? ; Come back and see us sometime, huh? <br> NA; rock_dog
+[sound:rock_dog_0171.mp4] <br> - Hey. <br> - Carl. [...] clean. ; - Hey. <br> - Carl. Stay clean. <br> - Carl. Temiz kal. <br> - El sıkışalım, Bodi.; rock_dog
+[sound:rock_dog_0172.mp4] <br> - Put 'er [...] Bodi. <br> - Ow! [Laughs][laughs] ; - Put 'er there, Bodi. <br> - Ow! [Laughs][laughs] <br> NA; rock_dog
+[sound:rock_dog_0173.mp4] <br> I um... I got a [...] something for you. <br> Now where'd I put it'? ; I um... I got a little something for you. <br> Now where'd I put it'? <br> Ben... Sana küçük bir şey getirdim. <br> Nereye koydum ki?; rock_dog
+[sound:rock_dog_0174.mp4] <br> Yeah, really [...] it to him. ; Yeah, really give it to him. <br> NA; rock_dog
+[sound:rock_dog_0175.mp4] <br> Okay, gotta [...] Bye, Mom. <br> ; Okay, gotta go. Bye, Mom. <br> Tamam, gitmeliyim. Görüşürüz, anne.; rock_dog
+[sound:rock_dog_0176.mp4] <br> [...] on! ; Come on! <br> Yallah! Riff, beni rahatsız ediyorsun.; rock_dog
+[sound:rock_dog_0177.mp4] <br> Riff, [...] bothering me. ; Riff, you're bothering me. <br> NA; rock_dog
+[sound:rock_dog_0178.mp4] <br> We got [...] up here! <br> One of the mastiffs is heading out. ; We got movement up here! <br> One of the mastiffs is heading out. <br> Burada bir hareketlilik var! <br> Çomarlardan biri yola koyuluyor!; rock_dog
+[sound:rock_dog_0179.mp4] <br> What? A mastiff is [...] Snow Mountain? ; What? A mastiff is leaving Snow Mountain? <br> Ne? Bir çomar <br> Karlı Dağ'dan mı ayrılıyor?; rock_dog
+[sound:rock_dog_0180.mp4] <br> I [...] the big guy. ; I hate the big guy. <br> NA; rock_dog
+[sound:rock_dog_0181.mp4] <br> What [...] the rest of the army? ; What about the rest of the army? <br> NA; rock_dog
+[sound:rock_dog_0182.mp4] <br> Uh, [...] <br> Checking. Checking. Checking. ; Uh, checking. <br> Checking. Checking. Checking. <br> Kontrol ediyorum. Kontrol ediyorum. <br> Kontrol ediyorum. Kontrol ediyorum.; rock_dog
+[sound:rock_dog_0183.mp4] <br> No, [...] They're staying put. ; No, nothing. They're staying put. <br> Hayır, yok bir şey. Kımıldamıyorlar. <br> Bu herifi imha etmemizi ister misin?; rock_dog
+[sound:rock_dog_0184.mp4] <br> You [...] us to take this guy out? ; You want us to take this guy out? <br> NA; rock_dog
+[sound:rock_dog_0185.mp4] <br> - '[...] I'll take this guy out. <br> - [Linnux over phone] No. ; - 'Cause I'll take this guy out. <br> - [Linnux over phone] No. <br> - Bu herifi imha ederim çünkü. - Hayır. <br> - İki saniyede biter. - Hayır. - Tamam.; rock_dog
+[sound:rock_dog_0186.mp4] <br> - [...] be done in two seconds. <br> - [Linnux] No. ; - It'll be done in two seconds. <br> - [Linnux] No. <br> NA; rock_dog
+[sound:rock_dog_0187.mp4] <br> [...] Whoa, whoa! ; Okay. Whoa, whoa! <br> NA; rock_dog
+[sound:rock_dog_0188.mp4] <br> He's [...] on the bus. <br> He's getting on the bus! ; He's getting on the bus. <br> He's getting on the bus! <br> Otobüse biniyor. <br> Otobüse biniyor!; rock_dog
+[sound:rock_dog_0189.mp4] <br> Don't let him [...] of your sight! <br> Bring him to me. ; Don't let him out of your sight! <br> Bring him to me. <br> Gözünüzün önünden ayırmayın! <br> Bana getirin.; rock_dog
+[sound:rock_dog_0190.mp4] <br> We [...] him, <br> we get Snow Mountain. [Laughs] ; We get him, <br> we get Snow Mountain. [Laughs] <br> Onu yakalarsak, Karlı Dağ'ı da yakalarız.; rock_dog
+[sound:rock_dog_0191.mp4] <br> Get your [...] and tie on, Skozz, <br> we are out of here! Whoo-hoo! ; Get your suit and tie on, Skozz, <br> we are out of here! Whoo-hoo! <br> Takım elbiseni giyip kravatını bağla Skozz <br> buradan gidiyoruz!; rock_dog
+[sound:rock_dog_0192.mp4] <br> [...] ; II' <br> NA; rock_dog
+[sound:rock_dog_0193.mp4] <br> Oh, hey, do you [...] where I can find <br> Rock 'n' Roll Park? ; Oh, hey, do you know where I can find <br> Rock 'n' Roll Park? <br> Rock 'n' Roll Park'ı nerede <br> bulabileceğimi biliyor musun?; rock_dog
+[sound:rock_dog_0194.mp4] <br> Oh, okay. Good [...] ; Oh, okay. Good talk. <br> Peki. Güzel konuşma. <br> Merhaba. Affedersiniz.; rock_dog
+[sound:rock_dog_0195.mp4] <br> I'm just into [...] <br> and I'm looking for a place... ; I'm just into town, <br> and I'm looking for a place... <br> - Şehre yeni geldim ve bir yer arıyorum... <br> - Tam zamanında.; rock_dog
+[sound:rock_dog_0196.mp4] <br> [...] on time. ; Right on time. <br> NA; rock_dog
+[sound:rock_dog_0197.mp4] <br> I reel [...] in, you knock him out. ; I reel him in, you knock him out. <br> Ben çekerim sen de yere yıkarsın. <br> Tamam, bana yardım et.; rock_dog
+[sound:rock_dog_0198.mp4] <br> Okay, [...] me a hand. ; Okay, give me a hand. <br> NA; rock_dog
+[sound:rock_dog_0199.mp4] <br> No, the [...] way. ; No, the other way. <br> NA; rock_dog
+[sound:rock_dog_0200.mp4] <br> No, [...] you, Skozz. <br> Come on, man, we don't got time for this. ; No, not you, Skozz. <br> Come on, man, we don't got time for this. <br> Hayır, sen değil, Skozz. <br> Hadi ama, adamım, buna vaktimiz yok.; rock_dog

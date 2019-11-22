@@ -1,0 +1,37 @@
+<img src="word_president.jpg"> <br>  <br>  başkan ;  president <br>  <img src="word_president.jpg"> <br>   ; exam201911
+<img src="word_leader.jpg"> <br>  <br>  lider ;  leader <br>  <img src="word_leader.jpg"> <br>   ; exam201911
+<img src="word_free.jpg"> <br>  <br>  özgürleştirmek, kurtarmak ;  to free <br>  <img src="word_free.jpg"> <br>   ; exam201911
+<img src="word_free.jpg"> <br>  <br>  özgür ;  free <br>  <img src="word_free.jpg"> <br>   ; exam201911
+<img src="word_invasion.jpg"> <br>  <br>  işgal ;  invasion <br>  <img src="word_invasion.jpg"> <br>   ; exam201911
+<img src="word_freed_from_invasion.jpg"> <br>  <br>  Onlar ülkeyi işgalden kurtardılar. ;  They freed the country from invasion <br>  <img src="word_freed_from_invasion.jpg"> <br>   ; exam201911
+<img src="word_civilization.jpg"> <br>  <br>  medeniyet, uygarlık ;  civilization <br>  <img src="word_civilization.jpg"> <br>   ; exam201911
+<img src="word_western_civilization.jpg"> <br>  <br>  batı medeniyeti ;  western civilization <br>  <img src="word_western_civilization.jpg"> <br>   ; exam201911
+<img src="word_similar_to.jpg"> <br>  <br>  Onlar Türkiye'yi Batı medeniyetine benzer hale getirdiler. ;  They made Turkey similar to Western civilizations <br>  <img src="word_similar_to.jpg"> <br>   ; exam201911
+<img src="word_similar.jpg"> <br>  <br>  benzer ;  similar <br>  <img src="word_similar.jpg"> <br>   ; exam201911
+<img src="word_main_countries_of_europe.jpg"> <br>  <br>  Avrupa'nın başlıca ülkeleri ;  Main countries of Europe <br>  <img src="word_main_countries_of_europe.jpg"> <br>   ; exam201911
+<img src="word_main.jpg"> <br>  <br>  başlıca, ana ;  main <br>  <img src="word_main.jpg"> <br>   ; exam201911
+<img src="word_his_birth_place.jpg"> <br>  <br>  onun doğum yeri ;  his birth place <br>  <img src="word_his_birth_place.jpg"> <br>   ; exam201911
+<img src="word_meaning.jpg"> <br>  <br>  anlam ;  meaning <br>  <img src="word_meaning.jpg"> <br>   ; exam201911
+<img src="word_meaning.jpg"> <br>  <br>  anlamına gelmek ;  to mean <br>  <img src="word_meaning.jpg"> <br>   ; exam201911
+<img src="word_army_officer.jpg"> <br>  <br>  ordu subayı ;  army officer <br>  <img src="word_army_officer.jpg"> <br>   ; exam201911
+<img src="word_organize_movement.jpg"> <br>  <br>  Onlar bir hareket organize ettiler ;  They organized a movement <br>  <img src="word_organize_movement.jpg"> <br>   ; exam201911
+<img src="word_secular.jpg"> <br>  <br>  laik, seküler, dünyevi ;  secular <br>  <img src="word_secular.jpg"> <br>   ; exam201911
+<img src="word_republic.jpg"> <br>  <br>  cumhuriyet ;  republic <br>  <img src="word_republic.jpg"> <br>   ; exam201911
+<img src="word_country_government.jpg"> <br>  <br>  ülkenin hükümeti ;  country's government <br>  <img src="word_country_government.jpg"> <br>   ; exam201911
+<img src="word_religious_leaders.jpg"> <br>  <br>  dini liderler ;  religious leaders <br>  <img src="word_religious_leaders.jpg"> <br>   ; exam201911
+<img src="word_importance.jpg"> <br>  <br>  önem ;  importance <br>  <img src="word_importance.jpg"> <br>   ; exam201911
+<img src="word_successful.jpg"> <br>  <br>  başarılı ;  successful <br>  <img src="word_successful.jpg"> <br>   ; exam201911
+<img src="word_military_commander.jpg"> <br>  <br>  askeri komutan ;  military commander <br>  <img src="word_military_commander.jpg"> <br>   ; exam201911
+<img src="word_to_establish.jpg"> <br>  <br>  kurmak ;  to establish <br>  <img src="word_to_establish.jpg"> <br>   ; exam201911
+<img src="word_establish_a_new_state.jpg"> <br>  <br>  Yeni bir devlet kurdular ;  They established a new state <br>  <img src="word_establish_a_new_state.jpg"> <br>   ; exam201911
+<img src="word_constitution.jpg"> <br>  <br>  anayasa ;  constitution <br>  <img src="word_constitution.jpg"> <br>   ; exam201911
+<img src="word_started_changes.jpg"> <br>  <br>  Çok sayıda değişikliği başlattılar ;  They started several changes <br>  <img src="word_started_changes.jpg"> <br>   ; exam201911
+<img src="word_to_inspire.jpg"> <br>  <br>  ilham vermek, esin kaynağı olmak ;  to inspire <br>  <img src="word_to_inspire.jpg"> <br>   ; exam201911
+<img src="word_to_inspire.jpg"> <br>  <br>  O, sonradan gelen çok sayıda lidere esin kaynağı oldu. ;  He inspired many later leaders <br>  <img src="word_to_inspire.jpg"> <br>   ; exam201911
+<img src="word_importance_to_women.jpg"> <br>  <br>  O, kadınlara çok önem verdi. ;  He gave women a lot of importance <br>  <img src="word_importance_to_women.jpg"> <br>   ; exam201911
+<img src="word_to_protect.jpg"> <br>  <br>  korumak ;  to protect <br>  <img src="word_to_protect.jpg"> <br>   ; exam201911
+<img src="word_to_protect.jpg"> <br>  <br>  Gençlik, ülkeyi koruyacak. ;  The youth will protect the country <br>  <img src="word_to_protect.jpg"> <br>   ; exam201911
+<img src="word_society.jpg"> <br>  <br>  toplum ;  society <br>  <img src="word_society.jpg"> <br>   ; exam201911
+<img src="word_democratic.jpg"> <br>  <br>  demokratik, halk idaresi ;  democratic <br>  <img src="word_democratic.jpg"> <br>   ; exam201911
+<img src="word_to_commemorate.jpg"> <br>  <br>  anmak ;  to commemorate <br>  <img src="word_to_commemorate.jpg"> <br>   ; exam201911
+<img src="word_show_our_respect.jpg"> <br>  <br>  Ona saygımızı gösteririz ;  We show our respect to him <br>  <img src="word_show_our_respect.jpg"> <br>   ; exam201911

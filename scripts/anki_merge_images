@@ -1,0 +1,4 @@
+#!/bin/bash
+filename=$1
+xsv select 'english,turkish' "${filename}" | xsv fmt -t '\t' > en_tur.tsv
+paste en_tur.tsv images.tsv | tee >(pbcopy) > sheets.tsv

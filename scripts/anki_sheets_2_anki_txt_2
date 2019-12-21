@@ -1,8 +1,10 @@
 #!/bin/bash
-tags=$1
+file=$1
+tags=$2
 echo "${tags}"
-sed -e '1,1 d' sheets.tsv \
+sed -e '1,1 d' $file \
 	| awk -F '\t' -v tags="${tags}" \
-	    '{print $3, "<br> ", $2, "; ", $1, "<br> ", $3, " ;", tags}' \
-	| tee >(pbcopy) > anki.txt
+	'{print "<img src=\"", $3, "\"> <br> ", $2, "; ", $1, "<br> <img src=\"", $3, "\"> ;", tags}' \
+	| sed -e 's/src=" /src="/g' -e 's/\.jpg ">/\.jpg">/g' \
+	| tee >(pbcopy) > anki_${file}.txt
 

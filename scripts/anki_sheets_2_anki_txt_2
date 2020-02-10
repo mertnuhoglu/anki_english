@@ -4,7 +4,7 @@ tags=$2
 echo "${tags}"
 sed -e '1,1 d' $file \
 	| awk -F '\t' -v tags="${tags}" \
-	'{print "<img src=\"", $3, "\"> <br> ", $2, "; ", $1, "<br> <img src=\"", $3, "\"> ;", tags}' \
-	| sed -e 's/src=" /src="/g' -e 's/\.jpg ">/\.jpg">/g' \
+	'{print "<img src=\"", $3, "\"> <br> ", $2, "; ", $1, "<br> [sound:", $1, ".mp3] ;", tags}' \
+	| sed -e 's/src=" /src="/g' -e 's/\.jpg ">/\.jpg">/g' -e 's/sound: /sound:/g' -e 's/ \.mp3]/\.mp3]/g' \
 	| tee >(pbcopy) > anki_${file}.txt
 

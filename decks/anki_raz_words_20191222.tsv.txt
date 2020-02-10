@@ -1,0 +1,29 @@
+<img src="to_travel.jpg"> <br>  dolaşmak, serinlemek ;  to travel <br> <img src="to_travel.jpg"> ; raz201912
+<img src="during.jpg"> <br>  boyunca, süresince ;  during <br> <img src="during.jpg"> ; raz201912
+<img src="during_the_day.jpg"> <br>  gün boyunca ;  during the day <br> <img src="during_the_day.jpg"> ; raz201912
+<img src="parade.jpg"> <br>  tören yürüyüşü ;  parade <br> <img src="parade.jpg"> ; raz201912
+<img src="pork.jpg"> <br>  domuz eti ;  pork <br> <img src="pork.jpg"> ; raz201912
+<img src="giant.jpg"> <br>  dev, devasa ;  giant <br> <img src="giant.jpg"> ; raz201912
+<img src="oil.jpg"> <br>  sıvı yağ, petrol ;  oil <br> <img src="oil.jpg"> ; raz201912
+<img src="to_cool.jpg"> <br>  serinlemek ;  to cool <br> <img src="to_cool.jpg"> ; raz201912
+<img src="shiny.jpg"> <br>  parlamak ;  shiny <br> <img src="shiny.jpg"> ; raz201912
+<img src="city_blocks.jpg"> <br>  sokakların arasındaki bina adası ;  city blocks <br> <img src="city_blocks.jpg"> ; raz201912
+<img src="to_whisper.jpg"> <br>  fısıldamak ;  to whisper <br> <img src="to_whisper.jpg"> ; raz201912
+<img src="shipwreck.jpg"> <br>  gemi enkazı ;  shipwreck <br> <img src="shipwreck.jpg"> ; raz201912
+<img src="to_demand.jpg"> <br>  talep etmek ;  to demand <br> <img src="to_demand.jpg"> ; raz201912
+<img src="nasty.jpg"> <br>  çirkin, iğrenç ;  nasty <br> <img src="nasty.jpg"> ; raz201912
+<img src="high.jpg"> <br>  yükseklik ;  high <br> <img src="high.jpg"> ; raz201912
+<img src="to_go_up.jpg"> <br>  yukarı çıkmalısın ;  you have to go up <br> <img src="to_go_up.jpg"> ; raz201912
+<img src="to_see_how_small.jpg"> <br>  ne kadar küçük olduğunu görmek için ;  to see how small you really are <br> <img src="to_see_how_small.jpg"> ; raz201912
+<img src="feet.jpg"> <br>  yaklaşık 30 cm uzunluk ;  feet <br> <img src="feet.jpg"> ; raz201912
+<img src="word_edge.jpg"> <br>  kenar ;  edge <br> <img src="word_edge.jpg"> ; raz201912
+<img src="word_attempt.jpg"> <br>  deneme, girişim ;  attempt <br> <img src="word_attempt.jpg"> ; raz201912
+<img src="speed.jpg"> <br>  hız ;  speed <br> <img src="speed.jpg"> ; raz201912
+<img src="word_sound.jpg"> <br>  ses ;  sound <br> <img src="word_sound.jpg"> ; raz201912
+<img src="speed_of_sound.jpg"> <br>  ses hızı ;  speed of sound <br> <img src="speed_of_sound.jpg"> ; raz201912
+<img src="density.jpg"> <br>  yoğunluk ;  density <br> <img src="density.jpg"> ; raz201912
+<img src="layers.jpg"> <br>  katman ;  layer <br> <img src="layers.jpg"> ; raz201912
+<img src="mentors.jpg"> <br>  akıl hocası, koç ;  mentor <br> <img src="mentors.jpg"> ; raz201912
+<img src="skydiving.jpg"> <br>  gökyüzü dalışı ;  skydiving <br> <img src="skydiving.jpg"> ; raz201912
+<img src="void.jpg"> <br>  boşluk ;  void <br> <img src="void.jpg"> ; raz201912
+<img src="word_safety.jpg"> <br>  güvenlik ;  safety <br> <img src="word_safety.jpg"> ; raz201912

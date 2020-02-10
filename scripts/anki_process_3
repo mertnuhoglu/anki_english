@@ -1,0 +1,18 @@
+#!/bin/bash
+tags=$1
+file="${tags}.tsv"
+~/projects/anki_english/scripts/anki_resize_images
+~/projects/anki_english/scripts/anki_rename_jpg 
+~/projects/anki_english/scripts/anki_jpg_2_images_2 $file
+~/projects/anki_english/scripts/anki_merge_images $file
+
+xsv select 'english' "${file}" | tail -n +2 > words
+~/projects/anki_english/scripts/anki_jpg_2_mp3
+
+~/projects/anki_english/scripts/anki_sheets_2_anki_txt_2 "$file" "${tags}"
+
+~/projects/anki_english/scripts/anki_mv_media_files_2_collection
+
+cp anki_${file}.txt /Users/mertnuhoglu/projects/anki_english/decks
+ANKI_FILE=~/projects/anki_english/decks/anki_${file}.txt
+echo ${ANKI_FILE} | pbcopy

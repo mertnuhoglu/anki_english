@@ -1,5 +1,5 @@
 #!/bin/bash
-PREFIX=${1:-word_}
+PREFIX=${1:-}
 echo $PREFIX
 rename 's/-/_/g' *.jpg
 rename 's/^'"$PREFIX"'//g' *.jpg

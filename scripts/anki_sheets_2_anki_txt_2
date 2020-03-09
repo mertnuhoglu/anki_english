@@ -2,9 +2,5 @@
 file=$1
 tags=$2
 echo "${tags}"
-sed -e '1,1 d' $file \
-	| awk -F '\t' -v tags="${tags}" \
-	'{print "<img src=\"", $3, "\"> <br> ", $2, "; ", $1, "<br> [sound:", $1, ".mp3] ;", tags}' \
-	| sed -e 's/src=" /src="/g' -e 's/\.jpg ">/\.jpg">/g' -e 's/sound: /sound:/g' -e 's/ \.mp3]/\.mp3]/g' \
-	| tee >(pbcopy) > anki_${file}.txt
-
+xsv select 'note_id,english,turkish,example_en' "${file}" | xsv fmt -t '\t' | sed -e '1,1 d' > en_tur.tsv
+paste en_tur.tsv images.tsv mp3_files.tsv > anki_${file}

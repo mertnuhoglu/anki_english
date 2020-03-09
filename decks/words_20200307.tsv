@@ -1,0 +1,60 @@
+note_id	english	turkish	image	example_en
+01	Where	Nerede?	where.jpg	Where is the door?
+02	When	Ne zaman?	when.jpg	When did you come here?
+03	How	Nasıl?	how.jpg	How can I go to the train station?
+04	Which	Hangi?	which.jpg	Which book do you want to read?
+05	Who	Kim?	who.jpg	Who is the child in red?
+06	Whom	Kime? Kimi?	who.jpg	Whom are you going to visit?
+07	Whose	Hangisinin? Kimin?	whose.jpg	Whose card is this?
+08	How many	Ne kadar? (sayılabilir şeyler)	how_many.jpg	How many books do you read a month?
+09	How much	Ne kadar? (sayılamayan şeyler)	how_much.jpg	How much does this cost?
+10	How often	Ne sıklıkta?	how_often.jpg	How often should I drink water?
+11	How far	Ne uzaklıkta?	how_far.jpg	How far is it to the airport?
+12	How long	Ne uzunlukta?	how_x.jpg	How long do I have to stay here?
+13	How old	Ne yaşta? Kaç yaşında?	how_x.jpg	How old is your grandpa?
+14	What kind	Ne türde?	what_kind.jpg	What kind of music do you like?
+15	What time	Ne zaman tam?	when.jpg	What time does the next train leave?
+16	to reject	reddetmek	to_reject.jpg	She rejected his job offer.
+17	except	hariç, dışında	except.jpg	I found nothing to eat except some bread.
+18	to keep on	devam etmek, sürdürmek (continue)	keep_on.jpg	Keep on walking until you reach the sea.
+19	to turn into	dönüşmek, değişmek (change)	turn_into.jpg	A caterpillar will turn into a butterfly.
+20	to go up	yukarı çıkmak, artmak (increase)	go_up.jpg	Prices are going up. Everything becomes more expensive.
+21	dependent on	bağımlı olmak	dependent_on.jpg	Teenagers are too dependent on their mobiles.
+22	embarrassed about	utanmış olmak (ashamed)	embarrassed_about	I felt embarrassed about the mistakes I made.
+23	to criticize	eleştirmek (judge as bad)	to_criticize.jpg	I criticize him then he gets angry.
+24	to boast	böbürlenmek (talking proudly about yourself)	to_boast.jpg	I don't want to be friend with people who like boasting.
+25	to complain	şikayet etmek (to express unhappiness about something)	to_complain.jpg	Air conditioner in the hotel room didn't work so I complained about it.
+26	to share with	birisine bir şeyi anlatmak, bir düşünceni paylaşmak (tell)	to_share_about.jpg	He is a very good person. You can share your secrets with him.
+27	to take part	katılmak (join)	to_take_part.jpg	If you want to have lots of friends, you need to take part in social activities.
+28	take a nap	kestirmek, uyuklamak	to_sleep.jpg	He is not here. Maybe he is taking a nap.
+29	take a shower	duş almak	take_shower.jpg	Take a shower after school each day. You will feel much better.
+30	take care of something	bir şeye ilgi göstermek, birine bakmak	word_take_care.jpg	I will take care of my sick son.
+31	gossip	dedikodu	gossip.jpg	Girls are gossiping about the new boy.
+32	to whisper	fısıldamak	whisper.jpg	Her whisper was so quiet that I couldn't understand him.
+33	to shout	bağırmak	shout.jpg	Don't shout at me. This is so noisy.
+34	to joke	şaka yapmak	joke.jpg	Don't joke with your friends about something serious.
+35	to argue	tartışmak	argue.jpg	Don't argue with me. You know that I'm right.
+36	make-up	makyaj	word_to_make_up.jpg	If you have make-up, they'll send you home.
+37	to miss something	bir şeyi kaçırmak (otobüsü kaçırmak gibi)	miss_the_bus.jpg	Don't miss the last bus. Be on time.
+38	definitely	kesinlikle	definite.jpg	Our trip was definitely a success.
+39	probably	muhtemelen	probable.jpg	She was probably right in the argument.
+40	to text (a message)	mesaj göndermek, yazmak	to_text_message.jpg	I will text you my location if you get lost.
+41	to post update	güncelleme yapmak (facebookta veya bir blogda)	post_update.jpg	I got married and I immediately posted my facebook status.
+42	join a club	bir gruba katılmak	join_club.jpg	I want to join your club. You are so cool.
+43	terrified of (something)	bir şeyden çok korkmak	terrified_of_flying.jpg	My mother is terrified of flying.
+44	worried about (something)	bir şeyle ilgili endişeli olmak	worried.jpg	I am very worried about going up in the lift.
+45	think of (something)	bir şey hakkında düşünmek	think_of.jpg	What do you think of my new dress?
+46	to share with (someone)	biriyle bir şeyi paylaşmak	share.jpg	Can you share that chocolate with me?
+47	embarrassed about (something)	bir şeyden utanmak	embarrass.jpg	I am a bit embarrassed about my fear of insects.
+48	to give advice	tavsiye vermek	advice.jpg	Maria gave good advice.
+49	firstly	ilk olarak	firstly.jpg	Firstly, we need to make peace.
+50	lastly	son olarak	last.jpg	Lastly, we are all brothers and sisters.
+51	also	ayrıca, hem de	also.jpg	She is talented and also kind.
+52	for one thing	bir kere	for_one_thing.jpg	For one thing, a lot of friends aren't friends at all.
+53	in addition	ek olarak	in_addition.jpg	In addition, some people are very scary too.
+54	on the other hand	öte yandan	on_the_other_hand.jpg	On the other hand, they have some right too.
+55	since	-den beri	since.jpg	Since 3 years, she works in the school.
+56	for (time duration)	(süresi) boyunca	for_since.jpg	I studied English for 2 years.
+57	ago (time preposition)	... önce	ago_before.jpg	I left the school 3 years ago.
+58	then (time)	ondan sonra	then_now.jpg	I left the school. Then I went to America.
+59	recently	son zamanlarda	recent.jpg	She recently finished her jobs.

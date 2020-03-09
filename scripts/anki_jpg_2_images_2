@@ -1,3 +1,3 @@
 #!/bin/bash
 filename=$1
-xsv select 'image' "${filename}" | sed -e '2,$ s/.*/<img src="\0"> <br> /' | tee >(pbcopy) > images.tsv
+xsv select 'image' "${filename}" | sed -e '2,$ s/.*/<img src="\0"> <br> /' | sed -e '1,1 d' > images.tsv

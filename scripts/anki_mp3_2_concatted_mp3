@@ -3,10 +3,10 @@ while read -r line; do
   # if the line has more than three fields, `field3` will get all the values, including the third field plus the delimiter(s)
 	echo $line
 	echo $line > tmp
-	sed -e 's/ /\n/' tmp | sed -e "s/^\(\w\+\)$/file '\1.mp3'/" > concat_mp3_files
+	sed -e 's/ /\n/g' tmp | sed -e "s/^\(\w\+\)$/file '\1.mp3'/" > concat_mp3_files
 	filename="${line// /_}"
 	ffmpeg -y -loglevel error -f concat -i concat_mp3_files -c copy $filename.mp3 < /dev/null
 	echo "OUTPUT: $filename.mp3"
 done < words
-cat words | sed -e 's/ /_/g' | sed -e 's/.*/[sound:\0.mp3]/' | tee >(pbcopy) > files
+cat words | sed -e 's/ /_/g' | sed -e 's/.*/[sound:\0.mp3]/' > mp3_files.tsv
 

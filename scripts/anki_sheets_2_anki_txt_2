@@ -2,5 +2,5 @@
 file=$1
 tags=$2
 echo "${tags}"
-xsv select 'note_id,english,turkish,example_en' "${file}" | xsv fmt -t '\t' | sed -e '1,1 d' > en_tur.tsv
+xsv select 'note_id,english,turkish,example_en' "${file}" | xsv fmt -t '\t' | sed -e '1,1 d' | sed -e "s/$/\t${tags}/" > en_tur.tsv
 paste en_tur.tsv images.tsv mp3_files.tsv > anki_${file}

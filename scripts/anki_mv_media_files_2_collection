@@ -1,4 +1,6 @@
 #!/bin/bash
+cp -n *.jpg /Users/mertnuhoglu/projects/anki_english/media
+cp -n *.mp3 /Users/mertnuhoglu/projects/anki_english/media
 mv -n *.jpg "/Users/mertnuhoglu/Library/Application Support/Anki2/ozgureminnuhoglu/collection.media/"
 mv -n *.mp3 "/Users/mertnuhoglu/Library/Application Support/Anki2/ozgureminnuhoglu/collection.media/"
 

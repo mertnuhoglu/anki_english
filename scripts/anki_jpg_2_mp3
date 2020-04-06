@@ -1,5 +1,7 @@
 #!/bin/bash
-xsv select 'english' "${file}" | tr '[:upper:]' '[:lower:]' | sed 's/([^)]*)//' | sed 's/ *$//' | tail -n +2 > words
-sed -e 's/[ -]/\n/g' words | sed -e 's#\w\+#https://ssl.gstatic.com/dictionary/static/sounds/oxford/\0--_us_1.mp3#' > links
-wget -i links
+echo "starting: ~/projects/anki_english/scripts/anki_jpg_2_mp3 "
+
+xsv select 'english' "${file}" | tr '[:upper:]' '[:lower:]' | sed 's/([^)]*)//' | sed 's/ *$//' | tail -n +2 > words &&
+sed -e 's/[ -]/\n/g' words | sed -e 's#\w\+#https://ssl.gstatic.com/dictionary/static/sounds/oxford/\0--_us_1.mp3#' > links &&
+wget -i links &&
 rename 's/--_us_1//' *.mp3

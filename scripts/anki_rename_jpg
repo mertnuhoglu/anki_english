@@ -1,7 +1,9 @@
 #!/bin/bash
+echo "starting ~/projects/anki_english/scripts/anki_rename_jpg"
+
 PREFIX=${1:-}
-echo $PREFIX
-rename 's/-/_/g' *.jpg
-rename 's/^'"$PREFIX"'//g' *.jpg
-rename 's/^(\w+).jpg$/'"$PREFIX"'$1.jpg/' *.jpg
+echo $PREFIX &&
+rename 's/-/_/g' *.jpg &&
+rename 's/^'"$PREFIX"'//g' *.jpg &&
+rename 's/^(\w+).jpg$/'"$PREFIX"'$1.jpg/' *.jpg &&
 for f in *; do mv "$f" "$f.tmp"; mv "$f.tmp" "`echo $f | tr "[:upper:]" "[:lower:]"`"; done

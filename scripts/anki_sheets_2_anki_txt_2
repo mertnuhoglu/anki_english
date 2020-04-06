@@ -1,6 +1,7 @@
 #!/bin/bash
+echo "starting: ~/projects/anki_english/scripts/anki_sheets_2_anki_txt_2 $file ${tags} "
 file=$1
 tags=$2
-echo "${tags}"
-xsv select 'note_id,english,turkish,example_en' "${file}" | xsv fmt -t '\t' | sed -e '1,1 d' | sed -e "s/$/\t${tags}/" > en_tur.tsv
+echo "${tags}" &&
+xsv select 'note_id,english,turkish,example_en' "${file}" | xsv fmt -t '\t' | sed -e '1,1 d' | sed -e "s/$/\t${tags}/" > en_tur.tsv &&
 paste en_tur.tsv images.tsv mp3_files.tsv > anki_${file}

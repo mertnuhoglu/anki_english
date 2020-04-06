@@ -1,3 +1,4 @@
 #!/bin/bash
-filename=$1
+echo "starting: ~/projects/anki_english/scripts/anki_jpg_2_images_2 $file"
+filename=$1 &&
 xsv select 'image' "${filename}" | sed -e '2,$ s/.*/<img src="\0"> <br> /' | sed -e '1,1 d' > images.tsv

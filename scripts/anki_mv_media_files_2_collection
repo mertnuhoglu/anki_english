@@ -1,4 +1,6 @@
 #!/bin/bash
+echo "starting: ~/projects/anki_english/scripts/anki_mv_media_files_2_collection"
+
 cp -n *.jpg /Users/mertnuhoglu/projects/anki_english/media
 cp -n *.mp3 /Users/mertnuhoglu/projects/anki_english/media
 mv -n *.jpg "/Users/mertnuhoglu/Library/Application Support/Anki2/ozgureminnuhoglu/collection.media/"

@@ -1,0 +1,18 @@
+#!/bin/bash
+tags=$1
+file="${tags}.tsv"
+sentence_ids_eng=$2
+example_en=$3
+
+Rscript ~/projects/anki_english/scripts/tatoeba_example_en_2_sentence_id.R "${file}" "${sentence_ids_eng}" "${example_en}"
+
+cd gen
+wget -i mp3_url
+xsv select 'example_id,word_id,english,turkish,explain,example_en,example_tr,mp3_url,sound' "${file}" | xsv fmt -t '\t' | sed -e '1,1 d' | sed -e "s/$/\t${tags}/" > anki_${file} &&
+
+~/projects/anki_english/scripts/anki_mv_media_files_2_collection &&
+
+cp ${file} /Users/mertnuhoglu/projects/anki_english/decks &&
+cp anki_${file} /Users/mertnuhoglu/projects/anki_english/decks &&
+ANKI_FILE=~/projects/anki_english/decks/anki_${file}
+echo ${ANKI_FILE} | pbcopy

@@ -1,0 +1,32 @@
+1	3/5 ifadesinde 3'ün bulunduğu terime {{c1::pay}} denir
+2	3/5 ifadesinde 5'in bulunduğu terime {{c1::payda}} denir
+3	20 = 5 · 4 ifadesinde 5 terimine, 20'nin {{c1:çarpanı}} denir.
+4	20'nin {{c1::çarpanları}} 1, 2, 4, 5, 10, 20 sayılarıdır.
+5	Bir sayının çarpanları, o sayıyı kalansız olarak {{c1::bölen}} sayılardır.
+6	20'nin {{c1::asal çarpanları}} 2, 5 sayılarıdır.
+7	325 sayısındaki 5 sayısı {{c1::birler basamağın}}daki sayıdır.
+8	Birler basamağında 0, 2, 4, 6, 8 olan sayılar {{c1::çift doğal}} sayılardır.
+9	Birler basamağında 1, 3, 5, 7, 9 olan sayılar {{c1::tek doğal}} sayılardır.
+10	Son iki basamağı {{c1::4}}'ün katı olan sayılar, 4 ile kalansız bölünür.
+11	4'e bölünen her sayı {{c1::2}}'ye kalansız bölünür. Ancak tersi her zaman geçerli değildir.
+12	3'e kalansız bölünen sayıların {{c1::rakamlarının toplamı}} 3'e kalansız bölünür.
+12	3'e {{c1::kalansız}} bölünen sayıların rakamlarının toplamı 3'e kalansız bölünür.
+13	Rakamları toplamı {{c1::9'un katı}} olan sayılar, 9'a kalansız bölünür.
+14	9'a {{c1::kalansız bölünen}} her sayı 3'e kalansız bölünür.
+14	9'a kalansız bölünen her sayı {{c1::3}}'e kalansız bölünür.
+15	30'u kalansız bölen, kendisi dışındaki sayıların en büyüğü {{c1::15}}'tir
+16	Herhangi bir sayıyı kalansız bölen, kendisi dışındaki sayıların en büyüğü, o sayının {{c1::yarısından}} büyük olamaz.
+17	2 ve 3'e kalansız bölünen sayılar, {{c1::6}}'ya kalansız bölünür.
+17	{{c1::2 ve 3}}'e kalansız bölünen sayılar, 6'ya kalansız bölünür.
+18	6'ya bölünen her sayı mutlaka {{c1::2 ve 3}}'e kalansız bölünür.
+19	1 ve kendisinden başka tam böleni olmayan doğal sayılara {{c1::asal}} sayı denir.
+19	{{c1::1 ve kendisinden başka}} tam böleni olmayan doğal sayılara asal} sayı denir.
+20	5 ve 7 kendi arasında {{c1::asal}} sayılardır. Yani ortak çarpanı bulunmaz.
+20	5 ve 7 kendi arasında asal sayılardır. Yani {{c1::ortak}} çarpanı bulunmaz.
+21	20'den küçük, en büyük asal sayı {{c1::19}}'dur.
+22	10 ve 20 arasındaki asal sayılar, {{c1::11, 13, 17, 19}}'dur.
+23	20 = 2 · 2 · 5 ifadesi, 20 sayısının {{c1::asal çarpanlarına}} ayrılmış halidir.
+24	{{c1::Çarpan}} kelimesi bölen kelimesiyle eş anlamlıdır.
+24	Çarpan kelimesi {{c1::bölen}} kelimesiyle eş anlamlıdır.
+25	12'nin asal çarpanları 2 · 2 · 3 ve 8'in asal çarpanları 2 · 2 · 2 olduğuna göre, 2 ve 4 sayıları 12 ve 8'in {{c1::ortak bölenleridir}}.
+26	12 ve 8'in ortak bölenlerinin en büyüğü {{c1::4}}'tür.

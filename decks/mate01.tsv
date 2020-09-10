@@ -41,3 +41,13 @@ A ∪ B: A {{c1::birleşim}} B diye okunur
 Negatif tam sayılar, sıfır ve pozitif tam sayıların birleşim kümesine {{c1::tam sayılar}} kümesi denir ve ℤ sembolü ile gösterilir
 Bir tam sayının 0'a olan uzaklığına bu tam sayının {{c1::mutlak değeri}} denir ve |-2| = 2 örneğindeki gösterilir.
 Payı 1 olan basit kesirlere {{c1::birim kesir}} denir, örneğin 1/3 veya 1/5 gibi.
+2/4 kesirini 1/2 haline dönüştürmeye {{c1::sadeleştirme}} denir.
+1/3 kesirini 3/9 haline dönüştürmeye {{c1::genişletme}} denir.
+payları eşit olan kesirlerden, paydası {{c1::küçük}} olan kesir en büyüktür. 
+2/4 ve 3/4 kesirlerinin {{c1::paydaları}} eşittir.
+2/5 ve 2/7 kesirlerinin {{c1::payları}} eşittir.
+kesirlerin toplama ve çıkarma işlemini yapmadan önce {{c1::paydalarını}} eşit hale getirmek gerekir.
+tam sayılı kesirlerle çarpma ve bölme işlemi yapmadan önce, tam sayılı kesirleri {{c1::bileşik kesir}} haline getirmek gerekir.
+bir kesrin virgül kullanılarak yazılmasına o kesrin {{c1::ondalık}} gösterimi denir
+3,57 sayısındaki 7 rakamı {{c1::yüzde birler}} basamağıdır.
+bir x sayısı 1'den küçük bir sayıyla çarpılırsa, sonuç x sayısından daha {{c1::küçük}}  olur.
